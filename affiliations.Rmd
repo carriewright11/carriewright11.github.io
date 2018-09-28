@@ -1,7 +1,7 @@
 
 
 
-##Professional Affiliations
+## Affiliations
 2018	R-Ladies Baltimore
 
 2017	Cofounder of Lieber Institute R + Journal Club – A journal club dedicated to data science using R
