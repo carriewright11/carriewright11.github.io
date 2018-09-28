@@ -1,0 +1,22 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "Carrie Wright, Ph.D."
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Presentations"
+      href: presentations.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/carriewright11
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/LIBDrstats
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/carrie-wright-36458344
+
+output:
+  html_document:
+    theme: paper
