@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title></title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Carrie Wright, Ph.D.</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="publications.html">Publications</a>
+</li>
+<li>
+  <a href="presentations.html">Presentations</a>
+</li>
+<li>
+  <a href="awards.html">Awards</a>
+</li>
+<li>
+  <a href="service.html">Service</a>
+</li>
+<li>
+  <a href="affiliations.html">Affiliations</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="contact.html">
+    <span class="fa fa-envelope fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="http://github.com/carriewright11">
+    <span class="fa fa-github fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://twitter.com/LIBDrstats">
+    <span class="fa fa-twitter fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://www.linkedin.com/in/carrie-wright-36458344">
+    <span class="fa fa-linkedin fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://scholar.google.com/citations?user=LVotQ9oAAAAJ&amp;hl=en">
+    <span class="fa fa-google fa-lg"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<div id="st-author-publications" class="section level2">
+<h2>1st Author Publications</h2>
+<ol style="list-style-type: decimal">
+<li>Rosenberg A. Z<em>., Wright C</em>., Fox-Talbot K., Rajpurohit A., Williams C., Porter C., Foulke-Abel J, Kovbasnjuk O., McCall M. N., Shin J. H., Haluska, M. K. (2018) xMD-miRNA-seq to generate near in vivo miRNA expression estimates in colon epithelial cells. Scientific Reports. 8(1):9783. PMID: 29955168 Contribution: Dr. Wright performed the library preparation for the small RNA seq, assisted with the design, interpretation of the results and the writing of the manuscript.</li>
+</ol>
+<ul>
+<li>These authors contributed equally to this work.</li>
+</ul>
+<ol start="2" style="list-style-type: decimal">
+<li><p>Wright C., Ross D. A., and Weinberger D. R. (2018) Small RNAs may answer big questions in mental illness. Biological Psychiatry. 83(1):e1. PMD: 29173708 Contribution: Dr. Wright wrote the manuscript.</p></li>
+<li><p>Wright C., Shin J. H., Jaffe A., Rajpurohit A., Brandon N., Cross A., Hyde T. M., Kleinman, J. E., and Weinberger D. R. (2017) Altered expression of histamine signaling genes in Autism Spectrum Disorder. Translational Psychiatry. 7(5):e1126. PMID: 28485729 Contribution: Dr. Wright helped design the study, analyzed the gene expression data, and wrote the manuscript.</p></li>
+<li><p>Wright C., Gupta C. N., Chen J., Patel V., Calhoun V.D., Ehrlich S., Wang L., Bustillo J. R., Perrone-Bizzozero N., and Turner J. A. (2016) Polymorphisms in MIR137HG and microRNA-137 regulated genes influence gray matter structure in schizophrenia. Translational Psychiatry. 6:e724. PMID: 26836412<br />
+Contribution: Dr. Wright helped design the study, analyzed the imaging and genotypic data, and wrote the manuscript.</p></li>
+<li><p>Wright C., Calhoun V., Ehrlich S., Wang L., Turner J.A., and Perrone-Bizzozero N. (2015) Meta gene set enrichment analyses link miR-137-regulated pathways with schizophrenia risk. Frontiers in Genetics. 6:147. PMID: 25941532 Contribution: Dr. Wright helped design the study, analyzed the genotypic data, and wrote the manuscript.</p></li>
+<li><p>Wright C., Turner J.A., Calhoun V.D. and Perrone-Bizzozero N. (2013) Potential impact of miR-137 and its targets in schizophrenia. Frontiers in Genetics. 4:58. PMID: 23637704 Contribution: Dr. Wright helped design the study, analyzed the data, and wrote the manuscript.</p></li>
+</ol>
+</div>
+<div id="secondary-author-publications" class="section level2">
+<h2>Secondary Author Publications</h2>
+<ol style="list-style-type: decimal">
+<li><p>Maphis N.M., Jiang S., Binder J., Wright C., Gopalan B., Lamb B.T., and Bhasker K. (2017) Whole genome expression analysis in a mouse model of tauopathy identifies MECP2 as a possible regulator of tau pathology. Frontiers in molecular neuroscience. 10:69. PMID: 28367114 Contribution: Dr. Wright performed pathway analysis and helped edit the manuscript.</p></li>
+<li><p>Patel V.S., Kelly S., Wright C., Gupta C. N., Arias-Vasquez A., Perrone-Bizzozero N., Ehrlich S., Wang L., Bustillo J.R., Morris D., Corvin A., Cannon D.M., McDonald C., Donohoe G., Calhoun V.D., and Turner J.A. (2015) MIR137HG risk variant rs1625579 genotype is related to corpus callosum volume in schizophrenia, Neuroscience Letters. 602: 44. PMID: 26123324</p></li>
+</ol>
+<p>Contribution: Dr. Wright contributed by providing miRNA expertise, data interpretation assistance, and helped edit the manuscript.</p>
+<ol start="3" style="list-style-type: decimal">
+<li>Gupta C.N., Chen J., Liu J., Damaraju E., Wright C., Perrone-Bizzozero N.I., Pearlson G., Luo L., Michael A.M., Turner J.A., and Calhoun V.D. (2015) Genetic markers of white matter integrity in schizophrenia revealed by parallel ICA. Front. Hum. Neurosci. 9:100. PMID: 25784871</li>
+</ol>
+<p>Contribution: Dr. Wright contributed by providing pathway analysis, miRNA expertise, data interpretation assistance, and helped edit the manuscript.</p>
+<ol start="4" style="list-style-type: decimal">
+<li>Hass J., Walton E., Wright C., Beyer A., Scholz M., Turner J., Liu J., Smolka M.N., Roessner V., Sponheim S.R., Gollub R.L., Calhoun V.D., and Ehrlich S. (2015) Associations between DNA methylation and schizophrenia-related intermediate phenotypes - a gene set enrichment analysis. Prog Neuropsychopharmacol Biol Psychiatry. 59:31. PMID: 25598502</li>
+</ol>
+<p>Contribution: Dr. Wright contributed by providing pathway analysis, miRNA expertise, and data interpretation assistance</p>
+<ol start="5" style="list-style-type: decimal">
+<li>Savage D. D., Rosenberg M. J., Wolff C. R., Akers K. G., El-Emawy A., Staples M. C., Varaschin R. K., Wright C., Seidel J. L., and Caldwell K. K. (2010). Effects of a novel cognition-enhancing agent on fetal ethanol-induced learning deficits. Alcoholism: Clinical and Experimental Research. 34: 1793. PMID: 20626729 Contribution: Dr. Wright assisted with the animal behavior data collection.</li>
+</ol>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

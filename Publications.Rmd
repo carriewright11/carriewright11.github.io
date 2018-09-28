@@ -1,0 +1,42 @@
+
+
+
+##1st Author Publications
+1.	Rosenberg A. Z*., Wright C*., Fox-Talbot K., Rajpurohit A., Williams C., Porter C., Foulke-Abel J, Kovbasnjuk O., McCall M. N., Shin J. H.,  Haluska, M. K. (2018) xMD-miRNA-seq to generate near in vivo miRNA expression estimates in colon epithelial cells. Scientific Reports. 8(1):9783. PMID: 29955168
+Contribution: Dr. Wright performed the library preparation for the small RNA seq, assisted with the design, interpretation of the results and the writing of the manuscript.
+* These authors contributed equally to this work.
+
+2.	Wright C., Ross D. A., and Weinberger D. R. (2018) Small RNAs may answer big questions in mental illness. Biological Psychiatry. 83(1):e1. PMD: 29173708
+Contribution: Dr. Wright wrote the manuscript.
+
+3.	Wright C., Shin J. H., Jaffe A., Rajpurohit A., Brandon N., Cross A., Hyde T. M., Kleinman, J. E., and Weinberger D. R. (2017) Altered expression of histamine signaling genes in Autism Spectrum Disorder. Translational Psychiatry. 7(5):e1126. PMID: 28485729
+Contribution: Dr. Wright helped design the study, analyzed the gene expression data, and wrote the manuscript.
+
+4.	Wright C., Gupta C. N., Chen J., Patel V., Calhoun V.D., Ehrlich S., Wang L., Bustillo J. R., Perrone-Bizzozero N., and Turner J. A. (2016) Polymorphisms in MIR137HG and microRNA-137 regulated genes influence gray matter structure in schizophrenia. Translational Psychiatry. 6:e724. PMID: 26836412  
+Contribution: Dr. Wright helped design the study, analyzed the imaging and genotypic data, and wrote the manuscript.
+
+5.	Wright C., Calhoun V., Ehrlich S., Wang L., Turner J.A., and Perrone-Bizzozero N. (2015)
+Meta gene set enrichment analyses link miR-137-regulated pathways with schizophrenia risk. Frontiers in Genetics. 6:147. PMID: 25941532
+Contribution: Dr. Wright helped design the study, analyzed the genotypic data, and wrote the manuscript.
+
+6.	Wright C., Turner J.A., Calhoun V.D. and Perrone-Bizzozero N. (2013) Potential impact of miR-137 and its targets in schizophrenia. Frontiers in Genetics. 4:58. PMID: 23637704 
+Contribution: Dr. Wright helped design the study, analyzed the data, and wrote the manuscript.
+
+##Secondary Author Publications
+1.	Maphis N.M., Jiang S., Binder J., Wright C., Gopalan B., Lamb B.T., and Bhasker K. (2017) Whole genome expression analysis in a mouse model of tauopathy identifies MECP2 as a possible regulator of tau pathology. Frontiers in molecular neuroscience. 10:69. PMID: 28367114
+Contribution: Dr. Wright performed pathway analysis and helped edit the manuscript.
+
+2.	Patel V.S., Kelly S., Wright C., Gupta C. N., Arias-Vasquez A., Perrone-Bizzozero N., Ehrlich S., Wang L., Bustillo J.R., Morris D., Corvin A., Cannon D.M., McDonald C., Donohoe G., Calhoun V.D., and Turner J.A. (2015) MIR137HG risk variant rs1625579 genotype is related to corpus callosum volume in schizophrenia, Neuroscience Letters. 602: 44. PMID: 26123324 
+
+Contribution: Dr. Wright contributed by providing miRNA expertise, data interpretation assistance, and helped edit the manuscript. 
+
+3.	Gupta C.N., Chen J., Liu J., Damaraju E., Wright C., Perrone-Bizzozero N.I., Pearlson G., Luo L., Michael A.M., Turner J.A., and Calhoun V.D. (2015) Genetic markers of white matter integrity in schizophrenia revealed by parallel ICA. Front. Hum. Neurosci. 9:100. PMID: 25784871 
+
+Contribution: Dr. Wright contributed by providing pathway analysis, miRNA expertise, data interpretation assistance, and helped edit the manuscript.
+
+4.	Hass J., Walton E., Wright C., Beyer A., Scholz M., Turner J., Liu J., Smolka M.N., Roessner V., Sponheim S.R., Gollub R.L., Calhoun V.D., and Ehrlich S. (2015) Associations between DNA methylation and schizophrenia-related intermediate phenotypes - a gene set enrichment analysis. Prog Neuropsychopharmacol Biol Psychiatry. 59:31. PMID: 25598502 
+
+Contribution: Dr. Wright contributed by providing pathway analysis, miRNA expertise, and data interpretation assistance 
+
+5.	Savage D. D., Rosenberg M. J., Wolff C. R., Akers K. G., El-Emawy A., Staples M. C., Varaschin R. K., Wright C., Seidel J. L., and Caldwell K. K. (2010). Effects of a novel cognition-enhancing agent on fetal ethanol-induced learning deficits. Alcoholism: Clinical and Experimental Research. 34: 1793. PMID: 20626729 
+Contribution: Dr. Wright assisted with the animal behavior data collection.
