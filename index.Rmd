@@ -29,7 +29,8 @@ My doctorate work was performed at the [University of New Mexico School of Medic
 
 ### Interests
 
-* `r icon::fa("stethoscope")` Clinical Research 
+* `r icon::fa("stethoscope")` Clinical Research
+* `r icon::fa("brain")` brain disorders
 * `r icon::fa("dna")` Genomics 
 * `r icon::fa("search-minus")` Non-coding RNA 
 * `r icon::fa("tachometer-alt")` gene regulation 
