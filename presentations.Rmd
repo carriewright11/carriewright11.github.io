@@ -1,4 +1,46 @@
 
 ## Posters
+2017 	Maryland Genetics, Epidemiology and Medicine (MD-GEM), Genetics Research Day, Johns Hopkins Bloomberg School of Public Health, Johns Hopkins School of Medicine, and the           National Human Genome Research Institute, Baltimore, Maryland, poster presentation titled “Evaluation of miRNA and isomiRNA expression in schizophrenia using small RNA            sequencing of postmortem dorsolateral prefrontal cortex brain tissue”
+
+2017 	Advances in Genome Biology and Technology (AGBT), Hollywood, Florida, poster presentation titled “A benchmark test for microRNA profiling using small RNA-seq”
+
+2016 	American College of Neuropsychopharmacology (ACNP), Hollywood, Florida, poster presentation titled “Evaluation of miRNA and isomiRNA expression in schizophrenia using             small RNA sequencing of postmortem dorsolateral prefrontal cortex brain tissue”
+
+2016 	American College of Neuropsychopharmacology (ACNP), Hollywood, Florida, poster presentation titled “Investigating expression of epistatic interaction networks in bipolar          disorder in human dorsolateral prefrontal cortex”
+
+2016 	Maryland Genetics, Epidemiology and Medicine (MD-GEM) Genetics Research Day, Johns Hopkins Bloomberg School of Public Health, Johns Hopkins School of Medicine, and the            National Human Genome Research Institute, Baltimore, Maryland, poster presentation titled “Post-mortem RNAseq characterization of the histaminergic neurotransmitter               system in autism spectrum disorders”
+
+2015 	American College of Neuropsychopharmacology (ACNP), Hollywood, Florida, poster presentation titled “Post-mortem RNAseq characterization of the histaminergic                       neurotransmitter system in autism spectrum disorders”
+2015 	International Imaging Genetics Conference (IIGC), UC Irvine, California, poster presentation titled “Polymorphisms within microRNA-137 regulated genes together with the           MIR137 risk variant, rs1625579, influence gray matter structure in schizophrenia”
+
+2014 	International Imaging Genetics Conference (IIGC), UC Irvine, California, poster presentation titled “Meta gene set variant enrichment analysis of miR-137 predicted and            validated targets reveals schizophrenia vulnerable pathways”
+
+2013	International Congress on Schizophrenia Research (ICOSR), Orlando, Florida, poster presentation titled “Impact of miR-137 in schizophrenia revealed by its putative                targets”
+
+2013	Neurosciences Department Research Day, University of New Mexico, poster presentation titled “Impact of miR-137 in schizophrenia revealed by its putative targets”
+
+2013 	Biomedical Sciences Graduate Program Student Research Day, University of New Mexico, Poster presentation titled “Grey matter effects of miR-137 putative targets involved          in axonal guidance”
+
+2013 	International Imaging Genetics Conference (IIGC), UC Irvine, California, poster presentation titled “Grey matter effects of miR-137 putative targets involved in axonal            guidance”
+
+2011	Research Society on Alcoholism (RSA), Atlanta, Georgia, Poster presentation titled
+        “Integration of adult-born hippocampal dentate granule cells following fetal alcohol exposure”
+
+2008	Annual Biomedical Research Conference for Minority Students (ABERCAMS), Orlando, Florida, poster presentation titled “Effects of maternal drinking during pregnancy on             placental gene expression and protein function” 
 
 ## Talks
+2017 	World Congress on Psychiatric Genetics (WCPG), symposium talk titled “Characterization of miRNA isoform expression in schizophrenia using human postmortem brain tissue”
+ 
+2017 	Johns Hopkins Schizophrenia Center Monthly Seminar Series, symposium talk titled “Characterization of miRNA and miRNA isoform expression in schizophrenia”
+
+2016 	World Congress on Psychiatric Genetics (WCPG), Jerusalem, Israel, symposium talk titled “Genes within the miR-137 regulation network cluster within pathways relevant for          schizophrenia and related endophenotypes”
+
+2016 	Society of Biological Psychiatry (SOBP), Atlanta, Georgia, symposium talk titled “MicroRNA 137 and its regulated genes are associated with brain imaging measures in               schizophrenia”
+
+2014	Radboud University Medical Center and Donders Institute, Department of Human Genetics, Nijmegen, the Netherlands, oral presentation titled “Meta gene set variant                  enrichment analysis of miR-137 predicted and validated targets reveals schizophrenia vulnerable pathways”
+
+2011	Biomedical Sciences Graduate Program Student Research Day, University of New Mexico, oral presentation titled “Integration of adult-born hippocampal dentate granule cells         following fetal alcohol exposure”
+
+2009	Biology Department Research Day, University of New Mexico, oral presentation titled“It’s always female choice - premating visual choice of female Cyprinodon                       rubrofluviatilis and Cyprinodon variegatus”
+
+2009	NIMH Career Opportunities in Research Colloquium, Albuquerque, New Mexico, oral presentation titled “Effects of ABT-239 on fetal ethanol-exposure induced learning                 deficits”
