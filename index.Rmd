@@ -29,12 +29,12 @@ My doctorate work was performed at the [University of New Mexico School of Medic
 
 ### Interests
 
-* Clinical Research `r icon::fa("stethoscope")`
-* Genomics `r icon::fa("dna")`
-* Non-coding RNA `r icon::fa("search-minus")`
-* gene regulation `r icon::fa("tachometer-alt")`
-* R programming `r icon::fa("r-project")`
-* Biostatistics `r icon::fa("chart-bar")`
+* `r icon::fa("stethoscope")` Clinical Research 
+* `r icon::fa("dna")` Genomics 
+* `r icon::fa("search-minus")` Non-coding RNA 
+* `r icon::fa("tachometer-alt")` gene regulation 
+* `r icon::fa("r-project")` R programming 
+* `r icon::fa("chart-bar")` Biostatistics 
 
 
 
