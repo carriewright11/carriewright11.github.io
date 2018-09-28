@@ -35,9 +35,8 @@ My doctorate work was performed at the [University of New Mexico School of Medic
 ![](http://ghchart.rshah.org/DA2536/carriewright11.svg){width=400px}
 
 
-# <a href='https://clustrmaps.com/site/1a5cd'  title='Visit tracker'><img src='http://clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=hnA7HWDcygUV__H-Pg5Npl9yDzHZ983W1TmLzj1XMf8'/></a>
 
-#<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=mMJdncczrKczeO0j6-ofVvIOdAmrUwpy0FcAIJeCdV0&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
 
-#src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=a&t=n&d=mMJdncczrKczeO0j6-ofVvIOdAmrUwpy0FcAIJeCdV0&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=300&t=n&d=mMJdncczrKczeO0j6-ofVvIOdAmrUwpy0FcAIJeCdV0&co=0b4975&ct=cdd4d9&cmo=3acc3a&cmn=ff5353'></script>
+
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=mMJdncczrKczeO0j6-ofVvIOdAmrUwpy0FcAIJeCdV0&cl=ffffff&w=a"></script>
