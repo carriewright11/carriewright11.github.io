@@ -1,7 +1,9 @@
 
+## Presentations {.tabset .tabset-fade}
 
 
-## Posters
+### Posters
+
 2017 	Maryland Genetics, Epidemiology and Medicine (MD-GEM), Genetics Research Day, Johns Hopkins Bloomberg School of Public Health, Johns Hopkins School of Medicine, and the           National Human Genome Research Institute, Baltimore, Maryland, poster presentation titled “Evaluation of miRNA and isomiRNA expression in schizophrenia using small RNA            sequencing of postmortem dorsolateral prefrontal cortex brain tissue”
 
 2017 	Advances in Genome Biology and Technology (AGBT), Hollywood, Florida, poster presentation titled “A benchmark test for microRNA profiling using small RNA-seq”
@@ -30,7 +32,9 @@
 
 2008	Annual Biomedical Research Conference for Minority Students (ABERCAMS), Orlando, Florida, poster presentation titled “Effects of maternal drinking during pregnancy on             placental gene expression and protein function” 
 
-## Talks
+
+### Talks
+
 2017 	World Congress on Psychiatric Genetics (WCPG), symposium talk titled “Characterization of miRNA isoform expression in schizophrenia using human postmortem brain tissue”
  
 2017 	Johns Hopkins Schizophrenia Center Monthly Seminar Series, symposium talk titled “Characterization of miRNA and miRNA isoform expression in schizophrenia”
