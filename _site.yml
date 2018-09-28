@@ -12,7 +12,7 @@ navbar:
   - text: Service
     href: service.html
   - text: Affiliations
-    href: professional_affiliations.html
+    href: affiliations.html
   right:
   - icon: fa-envelope fa-lg
     href: contact.html
