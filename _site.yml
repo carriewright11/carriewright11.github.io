@@ -26,7 +26,7 @@ navbar:
     href: https://scholar.google.com/citations?user=LVotQ9oAAAAJ&hl=en
 output:
   html_document:
-    theme: cosmo
+    theme: cerulean
     lib_dir: site_libs
     self_contained: no
 
