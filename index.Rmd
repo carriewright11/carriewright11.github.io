@@ -3,7 +3,7 @@
 ##About
 I am a Postdoctoral Fellow at the [Lieber Institute for Brain Development](https://www.libd.org/) at the [Johns Hopkins School of Medicine](https://www.hopkinsmedicine.org/) under the advisement of [Dr. Daniel Weinberger](https://en.wikipedia.org/wiki/Daniel_R._Weinberger). 
 
-I began my fellowship in October of 2014, as an AstraZeneca fellow (2014-2017). During my time at the [Lieber Institute for Brain Development](https://www.libd.org), I led an initiative to develop a small RNA sequencing protocol for estimating small RNA expression in more than 1600 brain samples. I also worked on several projects exploring gene expression alterations in a variety of psychiatric disorders, including schizophrenia, bipolar disorder, and autism spectrum disorder. I also co-founded the [LIBD Rstats Club](http://research.libd.org/rstatsclub/) with [Leonardo Collado-Torres](http://lcolladotor.github.io) and [Emily Burke](https://www.libd.org/team/emily-e-burke/) . 
+I began my fellowship in October of 2014, as an AstraZeneca fellow (2014-2017). During my time at the [Lieber Institute for Brain Development](https://www.libd.org), I led an initiative to develop a small RNA sequencing protocol for estimating small RNA expression in more than 1600 brain samples. I also worked on several projects exploring gene expression alterations in a variety of psychiatric disorders, including schizophrenia, bipolar disorder, and autism spectrum disorder. I also co-founded the [LIBD Rstats Club](http://research.libd.org/rstatsclub/) with [Leonardo Collado-Torres](http://lcolladotor.github.io) and [Emily Burke](https://www.libd.org/team/emily-e-burke/). 
 
 
 ##Graduate Work
