@@ -1,6 +1,7 @@
 
 ## About {.tabset .tabset-fade}
 
+###About
 I am a Postdoctoral Fellow at the [Lieber Institute for Brain Development](https://www.libd.org/) at the [Johns Hopkins School of Medicine](https://www.hopkinsmedicine.org/) under the advisement of [Dr. Daniel Weinberger](https://en.wikipedia.org/wiki/Daniel_R._Weinberger). 
 
 
@@ -39,9 +40,9 @@ My doctorate work was performed at the [University of New Mexico School of Medic
 
 ### Profiles 
 
-* [LinkedIn](https://www.linkedin.com/in/carrie-wright-36458344/)
-* [GitHub](http://github.com/carriewright11)
-* [Research Gate](https://www.researchgate.net/profile/Carrie_Wright6)
-* [`r icon::ai_academia(name = "google-scholar")`](https://scholar.google.com/citations?user=LVotQ9oAAAAJ&hl=en)
+* [`r icon::fa("linkedin")`LinkedIn](https://www.linkedin.com/in/carrie-wright-36458344/)
+* [`r icon::fa("github")`GitHub](http://github.com/carriewright11)
+* [`r icon::ai_academia(name = "researchgate")`Research Gate](https://www.researchgate.net/profile/Carrie_Wright6)
+* [`r icon::ai_academia(name = "google-scholar")` Google Scholar](https://scholar.google.com/citations?user=LVotQ9oAAAAJ&hl=en)
 
 
