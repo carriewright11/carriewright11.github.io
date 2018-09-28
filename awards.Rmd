@@ -1,3 +1,6 @@
+
+
+
 ##Awards and Honors
 2017	    Registration and Travel Scholarship, Summer Institute in Statistics for Big Data, training in reproducible research in biomedical big data, supervised methods for                 statistical machine learning, and unsupervised methods for statistical machine learning, University of Washington, Department of Biostatistics, Seattle, WA
 
