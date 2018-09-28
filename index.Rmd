@@ -21,19 +21,19 @@ My doctorate work was performed at the [University of New Mexico School of Medic
 
 
 
- `r icon::fa("rocket")`
+ `r icon::fa("brain")`
 
 
 
 
 ### Interests
 
-* Clinical Research
-* Genomics
-* Non-coding RNA
-* gene regulation
-* R programming 
-* Biostatistics
+* Clinical Research `r icon::fa("stethoscope")`
+* Genomics `r icon::fa("dna")`
+* Non-coding RNA `r icon::fa("search-minus")`
+* gene regulation`r icon::fa("tachometer-alt")`
+* R programming `r icon::fa("r-project")`
+* Biostatistics `r icon::fa("chart-bar")`
 
 
 
@@ -42,6 +42,6 @@ My doctorate work was performed at the [University of New Mexico School of Medic
 * [LinkedIn](https://www.linkedin.com/in/carrie-wright-36458344/)
 * [GitHub](http://github.com/carriewright11)
 * [Research Gate](https://www.researchgate.net/profile/Carrie_Wright6)
-* [GoogleScholar](https://scholar.google.com/citations?user=LVotQ9oAAAAJ&hl=en)
+* [`r icon::ai_academia(name = "google-scholar")`](https://scholar.google.com/citations?user=LVotQ9oAAAAJ&hl=en)
 
 
