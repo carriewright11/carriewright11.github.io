@@ -33,7 +33,7 @@ My doctorate work was performed at the [University of New Mexico School of Medic
 * `r icon::fa("brain")` Brain disorders
 * `r icon::fa("dna")` Genomics 
 * `r icon::fa("search-minus")` Non-coding RNA 
-* `r icon::fa("tachometer-alt")` Bene regulation 
+* `r icon::fa("tachometer-alt")` Gene regulation 
 * `r icon::fa("r-project")` R programming 
 * `r icon::fa("chart-bar")` Biostatistics 
 
