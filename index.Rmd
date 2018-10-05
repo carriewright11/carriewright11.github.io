@@ -11,7 +11,6 @@ I began my fellowship in October of 2014, as an AstraZeneca fellow (2014-2017). 
 
 
 
-
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=300&t=n&d=mMJdncczrKczeO0j6-ofVvIOdAmrUwpy0FcAIJeCdV0&co=0b4975&ct=cdd4d9&cmo=3acc3a&cmn=ff5353'></script>
 
 ###Graduate Work
@@ -45,5 +44,6 @@ My doctorate work was performed at the [University of New Mexico School of Medic
 * [`r icon::fa("github")` GitHub](http://github.com/carriewright11)
 * [`r icon::ai_academia(name = "researchgate")` Research Gate](https://www.researchgate.net/profile/Carrie_Wright6)
 * [`r icon::ai_academia(name = "google-scholar")` Google Scholar](https://scholar.google.com/citations?user=LVotQ9oAAAAJ&hl=en)
+
 
 
