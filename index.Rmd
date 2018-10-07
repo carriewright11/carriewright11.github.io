@@ -38,6 +38,10 @@ My doctorate work was performed at the [University of New Mexico School of Medic
 
 
 
+
+
+
+
 ### Profiles 
 
 * [`r icon::fa("linkedin")` LinkedIn](https://www.linkedin.com/in/carrie-wright-36458344/)
