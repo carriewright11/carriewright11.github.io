@@ -18,16 +18,16 @@ navbar:
   right:
   - icon: fa-envelope fa-lg
     href: contact.html
-  - icon: fa-github fa-lg
-    href: http://github.com/carriewright11
-  - icon: fa-twitter fa-lg
-    href: https://twitter.com/LIBDrstats
-  - icon: fa-linkedin fa-lg
-    href: https://www.linkedin.com/in/carrie-wright-36458344
-  - icon: fa-google fa-lg
-    href: https://scholar.google.com/citations?user=LVotQ9oAAAAJ&hl=en
-  - icon: r '\x60r icon::fa("google-scholar")\x60'
-    href: https://www.researchgate.net/profile/Carrie_Wright6
+#  - icon: fa-github fa-lg
+#    href: http://github.com/carriewright11
+#  - icon: fa-twitter fa-lg
+#    href: https://twitter.com/LIBDrstats
+#  - icon: fa-linkedin fa-lg
+#    href: https://www.linkedin.com/in/carrie-wright-36458344
+#  - icon: fa-google fa-lg
+#    href: https://scholar.google.com/citations?user=LVotQ9oAAAAJ&hl=en
+#  - icon: r '\x60r icon::fa("google-scholar")\x60'
+#    href: https://www.researchgate.net/profile/Carrie_Wright6
 
 output:
   html_document:
