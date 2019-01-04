@@ -26,3 +26,7 @@ Meta gene set enrichment analyses link miR-137-regulated pathways with schizophr
 4.	Hass J., Walton E., Wright C., Beyer A., Scholz M., Turner J., Liu J., Smolka M.N., Roessner V., Sponheim S.R., Gollub R.L., Calhoun V.D., and Ehrlich S. (2015) Associations between DNA methylation and schizophrenia-related intermediate phenotypes - a gene set enrichment analysis. Prog Neuropsychopharmacol Biol Psychiatry. 59:31. PMID: [25598502](https://www.ncbi.nlm.nih.gov/pubmed/?term=25598502) 
 
 5.	Savage D. D., Rosenberg M. J., Wolff C. R., Akers K. G., El-Emawy A., Staples M. C., Varaschin R. K., Wright C., Seidel J. L., and Caldwell K. K. (2010). Effects of a novel cognition-enhancing agent on fetal ethanol-induced learning deficits. Alcoholism: Clinical and Experimental Research. 34: 1793. PMID: [20626729](https://www.ncbi.nlm.nih.gov/pubmed/?term=20626729) 
+
+###Preprints
+1.	Wright C.\*, Rajpurohit A.\*, Jaffe A., Burke, E., Williams, C., Collado-Torres, L., Kimos, M., Brandon N., Cross A.J., Weinberger D. R., and Shin J. H. (2018) Comprehensive assessment of multiple biases in small RNA sequencing reveals significant differences in the performance of widely used methods. [bioRxiv. doi:10.1101/445437](https://www.biorxiv.org/content/early/2018/10/30/445437)
+
