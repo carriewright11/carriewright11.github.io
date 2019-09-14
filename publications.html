@@ -7,11 +7,12 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
-<title></title>
+<title>Publications.utf8.md</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -22,9 +23,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
-<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
-<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -72,9 +72,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -88,7 +86,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -98,6 +95,9 @@ img {
 }
 button.code-folding-btn:focus {
   outline: none;
+}
+summary {
+  display: list-item;
 }
 </style>
 
@@ -113,7 +113,6 @@ body {
   padding-top: 56px;
   margin-top: -56px;
 }
-
 .section h2 {
   padding-top: 56px;
   margin-top: -56px;
@@ -133,6 +132,43 @@ body {
 .section h6 {
   padding-top: 56px;
   margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -154,19 +190,73 @@ $(document).ready(function () {
 });
 </script>
 
-
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-</script>
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -255,13 +345,22 @@ $(document).ready(function () {
 </div>
 
 
+<div id="section" class="section level3">
+<h3></h3>
+</div>
+<div id="section-1" class="section level3">
+<h3></h3>
+<p>         </p>
+</div>
 <div id="publications" class="section level2 tabset tabset-fade">
 <h2>Publications</h2>
+<p> </p>
 <div id="first-author-publications" class="section level3">
 <h3>First Author Publications</h3>
 <ol style="list-style-type: decimal">
+<li><p><strong>Wright C.*</strong>, Rajpurohit A.*, Jaffe A., Burke, E., Williams, C., Collado-Torres, L., Kimos, M., Brandon N., Cross A.J., Weinberger D. R., and Shin J. H. (2019) Comprehensive assessment of multiple biases in small RNA sequencing reveals significant differences in the performance of widely used methods. BMC Genomics. 20(1):513. PMID: <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5870-3">1226924</a> * These authors contributed equally to this work.</p></li>
 <li><p>Rosenberg A. Z*., <strong>Wright C*</strong>., Fox-Talbot K., Rajpurohit A., Williams C., Porter C., Foulke-Abel J, Kovbasnjuk O., McCall M. N., Shin J. H., Haluska, M. K. (2018) xMD-miRNA-seq to generate near in vivo miRNA expression estimates in colon epithelial cells. Scientific Reports. 8(1):9783. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29955168">29955168</a> * These authors contributed equally to this work.</p></li>
-<li><p><strong>Wright C.</strong>, Ross D. A., and Weinberger D. R. (2018) Small RNAs may answer big questions in mental illness. Biological Psychiatry. 83(1):e1. PMD: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=29173708">29173708</a></p></li>
+<li><p><strong>Wright C.</strong>, Ross D. A., and Weinberger D. R. (2018) Small RNAs may answer big questions in mental illness. Biological Psychiatry. 83(1):e1. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=29173708">29173708</a></p></li>
 <li><p><strong>Wright C.</strong>, Shin J. H., Jaffe A., Rajpurohit A., Brandon N., Cross A., Hyde T. M., Kleinman, J. E., and Weinberger D. R. (2017) Altered expression of histamine signaling genes in Autism Spectrum Disorder. Translational Psychiatry. 7(5):e1126. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=28485729">28485729</a></p></li>
 <li><p><strong>Wright C.</strong>, Gupta C. N., Chen J., Patel V., Calhoun V.D., Ehrlich S., Wang L., Bustillo J. R., Perrone-Bizzozero N., and Turner J. A. (2016) Polymorphisms in MIR137HG and microRNA-137 regulated genes influence gray matter structure in schizophrenia. Translational Psychiatry. 6:e724. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=26836412">26836412</a></p></li>
 <li><p><strong>Wright C.</strong>, Calhoun V., Ehrlich S., Wang L., Turner J.A., and Perrone-Bizzozero N. (2015) Meta gene set enrichment analyses link miR-137-regulated pathways with schizophrenia risk. Frontiers in Genetics. 6:147. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=25941532">25941532</a></p></li>
@@ -303,6 +402,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

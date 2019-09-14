@@ -1,6 +1,14 @@
+###
+###
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 
 ## Presentations {.tabset .tabset-fade}
-
+&nbsp;
 
 ### Posters
 
@@ -34,6 +42,7 @@
 
 
 ### Talks
+
 
 2017 	World Congress on Psychiatric Genetics (WCPG), symposium talk titled “Characterization of miRNA isoform expression in schizophrenia using human postmortem brain tissue”
  
