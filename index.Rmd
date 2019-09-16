@@ -1,12 +1,20 @@
 ###
+###
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+<i class="fa fa-search"></i>
 
 ## About {.tabset .tabset-fade}
+&nbsp;
 
 ### About
 
 &nbsp;
 
-Carrie Wright is a Research Associate in the Department of [Biostatistics](https://www.jhsph.edu/departments/biostatistics/) at the [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/). Prior to joining the Johns Hopkins Data Science Lab, Dr. Wright was a Posdoctoral Fellow at the [Lieber Institute for Brain Development (LIBD)](https://www.libd.org/), where her research focused on uncovering genetic mechanisms in psychiatric disease through the utilization of data science tools. At LIBD, Dr. Wright cofounded the [LIBD rstats club](http://research.libd.org/rstatsclub/), a community designed to encourage others to learn more about R programming and statistics. Dr. Wright has also served as an instructor for the [Baltimore Underground Science Space](http://www.bugssonline.org/) and the [Johns Hopkins Center for Talented Youth](https://cty.jhu.edu/).
+Carrie Wright is a Research Associate in the Department of [Biostatistics](https://www.jhsph.edu/departments/biostatistics/) at the [Johns Hopkins Bloomberg School of Public Health (JHSPH)](https://www.jhsph.edu/). Dr. Wright is a member of the [Johns Hopkins Data Science Lab (DaSL)](https://jhudatascience.org/) and the [Open Case Studies](https://opencasestudies.github.io/) team.  Prior to joining the JHSPH, Dr. Wright was a Posdoctoral Fellow at the [Lieber Institute for Brain Development (LIBD)](https://www.libd.org/), where her research focused on uncovering genetic mechanisms in psychiatric disease through the utilization of data science tools. At LIBD, Dr. Wright cofounded the [LIBD rstats club](http://research.libd.org/rstatsclub/), a community designed to encourage others to learn more about R programming and statistics. Dr. Wright has also served as an instructor for the [Baltimore Underground Science Space](http://www.bugssonline.org/) and the [Johns Hopkins Center for Talented Youth](https://cty.jhu.edu/).
 
 &nbsp;
 
@@ -62,7 +70,7 @@ Dr. Wright's graduate work was performed at the [University of New Mexico School
 * `r icon::fa("tachometer-alt")` Gene regulation 
 * `r icon::fa("r-project")` R programming 
 * `r icon::fa("chart-bar")` Biostatistics 
-
+* `r icon::fa("chalkboard")` Education
 
 
 ### Profiles 
