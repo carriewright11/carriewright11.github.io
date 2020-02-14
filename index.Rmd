@@ -83,6 +83,5 @@ Dr. Wright's graduate work was performed at the [University of New Mexico School
 * [`r icon::fa("github")` GitHub](http://github.com/carriewright11)
 * [`r icon::ai_academia(name = "researchgate")` Research Gate](https://www.researchgate.net/profile/Carrie_Wright6)
 * [`r icon::ai_academia(name = "google-scholar")` Google Scholar](https://scholar.google.com/citations?user=LVotQ9oAAAAJ&hl=en)
-
-
+* <i class="fab fa-twitter" style="color:#226FC3;"><!-- icon --></i> [Twitter](https://twitter.com/mirnas22)
 
