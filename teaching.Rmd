@@ -2,13 +2,85 @@
 ###
 &nbsp;
 
-## Teaching Experience
+## Teaching {.tabset .tabset-fade}
+&nbsp;
+
+### Case Studies
+1) [Exploring global patterns of obesity across rural and urban regions (Version v1.0.0).](https://www.opencasestudies.org/ocs-bp-rural-and-urban-obesity/)   
+Wright, Carrie and Jager, Leah and Taub, Margaret and Hicks, Stephanie. (2020).  
+https://github.com/opencasestudies/ocs-bp-rural-and-urban-obesity
+
+<p style="text-align:center;"> <img src="https://raw.githubusercontent.com/opencasestudies/ocs-bp-rural-and-urban-obesity/master/img/main_plot.png" width="500" /> </p>
+
+2) [Predicting Annual Air Pollution (Version v1.0.0).](https://www.opencasestudies.org/ocs-bp-air-pollution/)  
+Wright, Carrie and Jager, Leah and Taub, Margaret and Hicks, Stephanie. (2020).   
+https://github.com//opencasestudies/ocs-bp-air-pollution  
+
+<p style="text-align:center;"> <img src="https://github.com/opencasestudies/ocs-bp-air-pollution/blob/master/img/main_plot_maps.png?raw=true" width="500" /></p> 
+
+3) [Vaping Behaviors in American Youth (Version v1.0.0).](https://www.opencasestudies.org/ocs-bp-vaping-case-study/)  
+Wright, Carrie and Ontiveros, Michael and Jager, Leah and Taub, Margaret and Hicks, Stephanie.(2020).  
+https://github.com/opencasestudies/ocs-bp-vaping-case-study  
+
+<p style="text-align:center;"> <img src="https://github.com/opencasestudies/ocs-bp-vaping-case-study/blob/master/img/final_plot.png?raw=true" width="500" /></p> 
+
+4) [Opioids in the United States (Version v1.0.0).](https://www.opencasestudies.org/ocs-bp-opioid-rural-urban/)   
+Wright, Carrie and Wang, Kexin and Jager, Leah and Taub, Margaret and Hicks, Stephanie. (2020).   
+https://github.com/opencasestudies/ocs-bp-opioid-rural-urban  
+
+<p style="text-align:center;"> <img src="https://github.com/opencasestudies/ocs-bp-opioid-rural-urban/blob/master/img/mainplot.png?raw=true" width="500" /></p> 
+
+5) [Influence of Multicollinearity on Measured Impact of Right-to-Carry Gun Laws Part 1 (Version v1.0.0).](https://www.opencasestudies.org/ocs-bp-RTC-wrangling)  
+Wright, Carrie and Ontiveros, Michael and Jager, Leah and Taub, Margaret and Hicks, Stephanie.(2020).  
+https://github.com/opencasestudies/ocs-bp-RTC-wrangling   
+
+<p style="text-align:center;"> <img src="https://github.com/opencasestudies/ocs-bp-RTC-wrangling/blob/master/img/mainplot.png?raw=true" width="500" /></p> 
+
+6) [Influence of Multicollinearity on Measured Impact of Right-to-Carry Gun Laws (Version v1.0.0)](https://www.opencasestudies.org/ocs-bp-RTC-analysis)   
+Wright, Carrie and Ontiveros, Michael and Jager, Leah and Taub, Margaret and Hicks, Stephanie.(2020).    
+https://github.com//opencasestudies/ocs-bp-RTC-analysis    
+
+<p style="text-align:center;"> <img src="https://github.com/opencasestudies/ocs-bp-RTC-analysis/blob/master/img/mainplot.png?raw=true" width="500" /></p> 
+
+7) [Disparities in Youth Disconnection](https://www.opencasestudies.org/ocs-bp-youth-disconnection)   
+Wright, Carrie and Ontiveros, Michael and Jager, Leah and Taub, Margaret and Hicks, Stephanie. (2020).   
+https://github.com/opencasestudies/ocs-youth-disconnection-case-study  
+
+<p style="text-align:center;"> <img src="https://github.com/opencasestudies/ocs-bp-youth-disconnection/blob/master/img/mainplot.png?raw=true" width="500" /></p> 
+
+8) [Mental Health of American Youth](https://www.opencasestudies.org/ocs-bp-youth-mental-health)  
+Wright, Carrie and Ontiveros, Michael and Jager, Leah and Taub, Margaret and Hicks, Stephanie. (2020).   
+https://github.com/opencasestudies/ocs-bp-youth-mental-health  
+
+<p style="text-align:center;"> <img src="https://github.com/opencasestudies/ocs-bp-youth-mental-health/blob/master/img/mainplot.png?raw=true" width="500" /></p> 
+
+9) [School Shootings in the United States (Version v1.0.0).](https://www.opencasestudies.org/ocs-bp-school-shootings-dashboard)  
+Wright, Carrie and Ontiveros, Michael and Jager, Leah and Taub, Margaret and Hicks, Stephanie.(2020).    
+https://github.com//opencasestudies/ocs-bp-school-shootings-dashboard   
+
+<p style="text-align:center;"> <img src="https://github.com/opencasestudies/ocs-bp-school-shootings-dashboard/blob/master/img/main_plot.png?raw=true" width="500" /></p> 
+
+10) [Exploring CO2 emissions across time (Version v1.0.0).](https://www.opencasestudies.org/ocs-bp-co2-emissions)  
+Wright, Carrie and Ontiveros, Michael and Jager, Leah and Taub, Margaret and Hicks, Stephanie.(2020).   
+(https://github.com/opencasestudies/ocs-bp-co2-emissions)  
+<p style="text-align:center;"> <img src="https://github.com/opencasestudies/ocs-bp-co2-emissions/blob/master/img/mainplot.png?raw=true" width="500" /></p> 
+
+11) [Exploring global patterns of dietary behaviors associated with health risk (Version v1.0.0).](https://www.opencasestudies.org/ocs-bp-diet)   
+Wright, Carrie and Jager, Leah and Taub, Margaret and Hicks, Stephanie. (2020).  
+https://github.com/opencasestudies/ocs-bp-diet   
+
+<p style="text-align:center;"> <img src="https://github.com/opencasestudies/ocs-bp-diet/blob/master/img/mainplot.png?raw=true" width="500" /></p> 
+
+### Instruction
+
+2020 **Workshop Instructor**
+[R-Ladies Baltimore](https://www.meetup.com/rladies-baltimore/events/263289042/), Virtual
+["Wrangling a pdf with stringr"](https://carriewright11.github.io/stringr_RLadies/) (approx 40 attendees)
 
 2020 **Workshop Instructor**
 [Johns Hopkins Center for Talented Youth](https://cty.jhu.edu/), Baltimore, MD
 “Research and Data Science”
 Designed and taught a workshop about  Research and R programming to South Korean high school students in Baltimore (approx 12 students)
-
 
 2019 **Course Instructor**
 [Johns Hopkins Center for Talented Youth](https://cty.jhu.edu/), Baltimore, MD
@@ -61,3 +133,17 @@ Tutored two undergraduate students
 Taught a variety of science courses to children age 3-12
 
 
+### Books
+
+2020 Tidyverse Skills for Data Science in R, Carrie Wright, Shannon Ellis, Stephanie Hicks, and Roger D. Peng. https://leanpub.com/tidyverseskillsdatascience
+
+<p style="text-align:center;"> <img src="https://d2sofvawe08yqg.cloudfront.net/tidyverseskillsdatascience/hero2x?1612295938" width="300" /></p>
+
+### Coursera
+
+2020  - [Tidyverse Skills for Data Science in R Specialization, Carrie Wright, Shannon Ellis, Stephanie Hicks, and Roger D. Peng.](https://www.coursera.org/specializations/tidyverse-data-science-r)
+<p style="text-align:center;"> <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/c5/522e22e9ca4b579919f68341759e5c/Tidyverse.png?auto=format%2Ccompress&dpr=2&w=150&h=150&fit=fill&bg=FFF" width="300" /></p>
+
+Including:
+
+1) [Introduction to the Tidyverse](https://www.coursera.org/learn/tidyverse?specialization=tidyverse-data-science-r) <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/4c/fd661c15034da2a9a2eeaab6673ca3/Tidyverse-Introduction.png?auto=format%2Ccompress&dpr=2&w=150&h=150&q=40&fit=fill&bg=FFF"  width="100" />  2. [Importing Data in the Tidyverse](https://www.coursera.org/learn/tidyverse-importing-data?specialization=tidyverse-data-science-r)  <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/ea/a0546c0f1f4593ae9671a21c924a5a/Tidyverse-Importing.png?auto=format%2Ccompress&dpr=2&w=150&h=150&fit=fill&bg=FFF"  width="100" />  3. [Wrangling Data in the Tidyverse](https://www.coursera.org/learn/tidyverse-data-wrangling?specialization=tidyverse-data-science-r)  <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/3f/ccacb8d4ba4c2fa8ba919b6c81ac73/Tidyverse-Wrangling.png?auto=format%2Ccompress&dpr=2&w=150&h=150&fit=fill&bg=FFF"  width="100" />   4. [Visualizing Data in the Tidyverse](https://www.coursera.org/learn/tidyverse-visualize-data?specialization=tidyverse-data-science-r) <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/ae/0d03e562cd4507a40fb04aba28a2c2/Tidyverse-Visualizing.png?auto=format%2Ccompress&dpr=2&w=150&h=150&q=40&fit=fill&bg=FFF"  width="100" />  5. [Modeling Data in the Tidyverse](https://www.coursera.org/learn/tidyverse-modelling-data)  <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/e4/59b84597944b43b12d84a3534c5942/Tidyverse-Modeling.png?auto=format%2Ccompress&dpr=2&w=150&h=150&q=40&fit=fill&bg=FFF"  width="100" />

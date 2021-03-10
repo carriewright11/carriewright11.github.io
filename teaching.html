@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
-<title>teaching.utf8.md</title>
+<title>teaching.utf8</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -20,18 +19,29 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
-<style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -44,32 +54,7 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
 
 
 
@@ -79,10 +64,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -99,40 +80,13 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 51px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -160,7 +114,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -172,7 +126,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -183,10 +137,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -198,7 +165,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -234,6 +200,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -294,50 +261,18 @@ $(document).ready(function () {
 <li>
   <a href="affiliations.html">Affiliations</a>
 </li>
+<li>
+  <a href="contact.html">Contact</a>
+</li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li>
-  <a href="contact.html">
-    <span class="fa fa-envelope fa-lg"></span>
-     
-  </a>
-</li>
-<li>
-  <a href="http://github.com/carriewright11">
-    <span class="fa fa-github fa-lg"></span>
-     
-  </a>
-</li>
-<li>
-  <a href="https://www.linkedin.com/in/carrie-wright-36458344">
-    <span class="fa fa-linkedin fa-lg"></span>
-     
-  </a>
-</li>
-<li>
-  <a href="https://scholar.google.com/citations?user=LVotQ9oAAAAJ&amp;hl=en">
-    <span class="fa fa-google fa-lg"></span>
-     
-  </a>
-</li>
-<li>
-  <a href="https://twitter.com/mirnas22">
-    <span class="fab fa fab fa-twitter fa-lg"></span>
-     
-  </a>
-</li>
-<li>
-  <a href="https://www.researchgate.net/profile/Carrie_Wright6">
-    <span class="fab fa fab fa-researchgate"></span>
-     
-  </a>
-</li>
+        
       </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -352,8 +287,102 @@ $(document).ready(function () {
 <h3></h3>
 <p> </p>
 </div>
-<div id="teaching-experience" class="section level2">
-<h2>Teaching Experience</h2>
+<div id="teaching" class="section level2 tabset tabset-fade">
+<h2>Teaching</h2>
+<p> </p>
+<div id="case-studies" class="section level3">
+<h3>Case Studies</h3>
+<ol style="list-style-type: decimal">
+<li><a href="https://www.opencasestudies.org/ocs-bp-rural-and-urban-obesity/">Exploring global patterns of obesity across rural and urban regions (Version v1.0.0).</a><br />
+Wright, Carrie and Jager, Leah and Taub, Margaret and Hicks, Stephanie. (2020).<br />
+<a href="https://github.com/opencasestudies/ocs-bp-rural-and-urban-obesity" class="uri">https://github.com/opencasestudies/ocs-bp-rural-and-urban-obesity</a></li>
+</ol>
+<p style="text-align:center;">
+<img src="https://raw.githubusercontent.com/opencasestudies/ocs-bp-rural-and-urban-obesity/master/img/main_plot.png" width="500" />
+</p>
+<ol start="2" style="list-style-type: decimal">
+<li><a href="https://www.opencasestudies.org/ocs-bp-air-pollution/">Predicting Annual Air Pollution (Version v1.0.0).</a><br />
+Wright, Carrie and Jager, Leah and Taub, Margaret and Hicks, Stephanie. (2020).<br />
+<a href="https://github.com//opencasestudies/ocs-bp-air-pollution" class="uri">https://github.com//opencasestudies/ocs-bp-air-pollution</a></li>
+</ol>
+<p style="text-align:center;">
+<img src="https://github.com/opencasestudies/ocs-bp-air-pollution/blob/master/img/main_plot_maps.png?raw=true" width="500" />
+</p>
+<ol start="3" style="list-style-type: decimal">
+<li><a href="https://www.opencasestudies.org/ocs-bp-vaping-case-study/">Vaping Behaviors in American Youth (Version v1.0.0).</a><br />
+Wright, Carrie and Ontiveros, Michael and Jager, Leah and Taub, Margaret and Hicks, Stephanie.(2020).<br />
+<a href="https://github.com/opencasestudies/ocs-bp-vaping-case-study" class="uri">https://github.com/opencasestudies/ocs-bp-vaping-case-study</a></li>
+</ol>
+<p style="text-align:center;">
+<img src="https://github.com/opencasestudies/ocs-bp-vaping-case-study/blob/master/img/final_plot.png?raw=true" width="500" />
+</p>
+<ol start="4" style="list-style-type: decimal">
+<li><a href="https://www.opencasestudies.org/ocs-bp-opioid-rural-urban/">Opioids in the United States (Version v1.0.0).</a><br />
+Wright, Carrie and Wang, Kexin and Jager, Leah and Taub, Margaret and Hicks, Stephanie. (2020).<br />
+<a href="https://github.com/opencasestudies/ocs-bp-opioid-rural-urban" class="uri">https://github.com/opencasestudies/ocs-bp-opioid-rural-urban</a></li>
+</ol>
+<p style="text-align:center;">
+<img src="https://github.com/opencasestudies/ocs-bp-opioid-rural-urban/blob/master/img/mainplot.png?raw=true" width="500" />
+</p>
+<ol start="5" style="list-style-type: decimal">
+<li><a href="https://www.opencasestudies.org/ocs-bp-RTC-wrangling">Influence of Multicollinearity on Measured Impact of Right-to-Carry Gun Laws Part 1 (Version v1.0.0).</a><br />
+Wright, Carrie and Ontiveros, Michael and Jager, Leah and Taub, Margaret and Hicks, Stephanie.(2020).<br />
+<a href="https://github.com/opencasestudies/ocs-bp-RTC-wrangling" class="uri">https://github.com/opencasestudies/ocs-bp-RTC-wrangling</a></li>
+</ol>
+<p style="text-align:center;">
+<img src="https://github.com/opencasestudies/ocs-bp-RTC-wrangling/blob/master/img/mainplot.png?raw=true" width="500" />
+</p>
+<ol start="6" style="list-style-type: decimal">
+<li><a href="https://www.opencasestudies.org/ocs-bp-RTC-analysis">Influence of Multicollinearity on Measured Impact of Right-to-Carry Gun Laws (Version v1.0.0)</a><br />
+Wright, Carrie and Ontiveros, Michael and Jager, Leah and Taub, Margaret and Hicks, Stephanie.(2020).<br />
+<a href="https://github.com//opencasestudies/ocs-bp-RTC-analysis" class="uri">https://github.com//opencasestudies/ocs-bp-RTC-analysis</a></li>
+</ol>
+<p style="text-align:center;">
+<img src="https://github.com/opencasestudies/ocs-bp-RTC-analysis/blob/master/img/mainplot.png?raw=true" width="500" />
+</p>
+<ol start="7" style="list-style-type: decimal">
+<li><a href="https://www.opencasestudies.org/ocs-bp-youth-disconnection">Disparities in Youth Disconnection</a><br />
+Wright, Carrie and Ontiveros, Michael and Jager, Leah and Taub, Margaret and Hicks, Stephanie. (2020).<br />
+<a href="https://github.com/opencasestudies/ocs-youth-disconnection-case-study" class="uri">https://github.com/opencasestudies/ocs-youth-disconnection-case-study</a></li>
+</ol>
+<p style="text-align:center;">
+<img src="https://github.com/opencasestudies/ocs-bp-youth-disconnection/blob/master/img/mainplot.png?raw=true" width="500" />
+</p>
+<ol start="8" style="list-style-type: decimal">
+<li><a href="https://www.opencasestudies.org/ocs-bp-youth-mental-health">Mental Health of American Youth</a><br />
+Wright, Carrie and Ontiveros, Michael and Jager, Leah and Taub, Margaret and Hicks, Stephanie. (2020).<br />
+<a href="https://github.com/opencasestudies/ocs-bp-youth-mental-health" class="uri">https://github.com/opencasestudies/ocs-bp-youth-mental-health</a></li>
+</ol>
+<p style="text-align:center;">
+<img src="https://github.com/opencasestudies/ocs-bp-youth-mental-health/blob/master/img/mainplot.png?raw=true" width="500" />
+</p>
+<ol start="9" style="list-style-type: decimal">
+<li><a href="https://www.opencasestudies.org/ocs-bp-school-shootings-dashboard">School Shootings in the United States (Version v1.0.0).</a><br />
+Wright, Carrie and Ontiveros, Michael and Jager, Leah and Taub, Margaret and Hicks, Stephanie.(2020).<br />
+<a href="https://github.com//opencasestudies/ocs-bp-school-shootings-dashboard" class="uri">https://github.com//opencasestudies/ocs-bp-school-shootings-dashboard</a></li>
+</ol>
+<p style="text-align:center;">
+<img src="https://github.com/opencasestudies/ocs-bp-school-shootings-dashboard/blob/master/img/main_plot.png?raw=true" width="500" />
+</p>
+<ol start="10" style="list-style-type: decimal">
+<li><a href="https://www.opencasestudies.org/ocs-bp-co2-emissions">Exploring CO2 emissions across time (Version v1.0.0).</a><br />
+Wright, Carrie and Ontiveros, Michael and Jager, Leah and Taub, Margaret and Hicks, Stephanie.(2020).<br />
+(<a href="https://github.com/opencasestudies/ocs-bp-co2-emissions" class="uri">https://github.com/opencasestudies/ocs-bp-co2-emissions</a>)<br />
+
+<p style="text-align:center;">
+<img src="https://github.com/opencasestudies/ocs-bp-co2-emissions/blob/master/img/mainplot.png?raw=true" width="500" />
+</p></li>
+<li><a href="https://www.opencasestudies.org/ocs-bp-diet">Exploring global patterns of dietary behaviors associated with health risk (Version v1.0.0).</a><br />
+Wright, Carrie and Jager, Leah and Taub, Margaret and Hicks, Stephanie. (2020).<br />
+<a href="https://github.com/opencasestudies/ocs-bp-diet" class="uri">https://github.com/opencasestudies/ocs-bp-diet</a></li>
+</ol>
+<p style="text-align:center;">
+<img src="https://github.com/opencasestudies/ocs-bp-diet/blob/master/img/mainplot.png?raw=true" width="500" />
+</p>
+</div>
+<div id="instruction" class="section level3">
+<h3>Instruction</h3>
+<p>2020 <strong>Workshop Instructor</strong> <a href="https://www.meetup.com/rladies-baltimore/events/263289042/">R-Ladies Baltimore</a>, Virtual <a href="https://carriewright11.github.io/stringr_RLadies/">“Wrangling a pdf with stringr”</a> (approx 40 attendees)</p>
 <p>2020 <strong>Workshop Instructor</strong> <a href="https://cty.jhu.edu/">Johns Hopkins Center for Talented Youth</a>, Baltimore, MD “Research and Data Science” Designed and taught a workshop about Research and R programming to South Korean high school students in Baltimore (approx 12 students)</p>
 <p>2019 <strong>Course Instructor</strong> <a href="https://cty.jhu.edu/">Johns Hopkins Center for Talented Youth</a>, Baltimore, MD “Introduction to Biomedical Sciences” Designed and taught a full time two week course about Biomedical Sciences to high school students in Abu Dhabi and Ajman in the United Arab Emirates (approx 15 students each)</p>
 <p>2018 <strong>Teaching Assistant</strong> <a href="http://www.bugssonline.org/">Baltimore Underground Science Space</a>, Baltimore, MD “R you interested in big data analysis?” Assisted with R programming analysis one-on-one with students</p>
@@ -361,10 +390,29 @@ $(document).ready(function () {
 <p>2017 <strong>Workshop Instructor</strong> <a href="http://www.bugssonline.org/">Baltimore Underground Science Space</a>, Baltimore, MD “Adventures in BIG DATA Analysis” Designed and taught a course on data analysis using R to approximately 20 students</p>
 <p>2017 <strong>Research Mentor</strong> Department of Clinical Sciences, Lieber Institute for Brain Development, Johns Hopkins School of Medicine, Baltimore, MD Trained and guided a Johns Hopkins undergraduate Student Researcher, Jane Brusilovsky, through a gene expression research project</p>
 <p>2017 <strong>Research Mentor</strong> Department of Clinical Sciences, Lieber Institute for Brain Development, Johns Hopkins School of Medicine, Baltimore, MD Trained and guided a research associate, Nina Rajpurohit, through a gene expression research project</p>
-<p>2013 <strong>Teaching Assistant</strong> Department of Neurosciences, University of New Mexico, Albuquerque, NM “Introduction to Neurobiology”, Biomed 509 taught by Donald Partridge, Ph.D. Assisted with grading, class organization, and discussions</p>
+<p>2013 <strong>Teaching Assistant</strong> Department of Neurosciences, University of New Mexico, Albuquerque, NM “Introduction to Neurobiology”, Biomed 509 taught by Donald Partridge, Ph.D. Assisted with grading, class organization, and discussions</p>
 <p>2013 <strong>Research Mentor</strong> Mind Research Network, Albuquerque, NM Trained and guided an undergraduate Student Researcher, Daniel Astorga, through an imaging genetics research project</p>
-<p>2007 <strong>Student Tutor</strong> Department of Chemistry, University of New Mexico, Albuquerque, NM “Organic Chemistry”, Chem 301 taught by Lisa Whalen, Ph.D. Tutored two undergraduate students</p>
+<p>2007 <strong>Student Tutor</strong> Department of Chemistry, University of New Mexico, Albuquerque, NM “Organic Chemistry”, Chem 301 taught by Lisa Whalen, Ph.D. Tutored two undergraduate students</p>
 <p>2005 <strong>Class Instructor</strong> <a href="https://www.explora.us/">Explora Science Center</a>, Albuquerque, NM Taught a variety of science courses to children age 3-12</p>
+</div>
+<div id="books" class="section level3">
+<h3>Books</h3>
+<p>2020 Tidyverse Skills for Data Science in R, Carrie Wright, Shannon Ellis, Stephanie Hicks, and Roger D. Peng. <a href="https://leanpub.com/tidyverseskillsdatascience" class="uri">https://leanpub.com/tidyverseskillsdatascience</a></p>
+<p style="text-align:center;">
+<img src="https://d2sofvawe08yqg.cloudfront.net/tidyverseskillsdatascience/hero2x?1612295938" width="300" />
+</p>
+</div>
+<div id="coursera" class="section level3">
+<h3>Coursera</h3>
+2020 - <a href="https://www.coursera.org/specializations/tidyverse-data-science-r">Tidyverse Skills for Data Science in R Specialization, Carrie Wright, Shannon Ellis, Stephanie Hicks, and Roger D. Peng.</a>
+<p style="text-align:center;">
+<img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/c5/522e22e9ca4b579919f68341759e5c/Tidyverse.png?auto=format%2Ccompress&dpr=2&w=150&h=150&fit=fill&bg=FFF" width="300" />
+</p>
+<p>Including:</p>
+<ol style="list-style-type: decimal">
+<li><a href="https://www.coursera.org/learn/tidyverse?specialization=tidyverse-data-science-r">Introduction to the Tidyverse</a> <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/4c/fd661c15034da2a9a2eeaab6673ca3/Tidyverse-Introduction.png?auto=format%2Ccompress&dpr=2&w=150&h=150&q=40&fit=fill&bg=FFF"  width="100" /> 2. <a href="https://www.coursera.org/learn/tidyverse-importing-data?specialization=tidyverse-data-science-r">Importing Data in the Tidyverse</a> <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/ea/a0546c0f1f4593ae9671a21c924a5a/Tidyverse-Importing.png?auto=format%2Ccompress&dpr=2&w=150&h=150&fit=fill&bg=FFF"  width="100" /> 3. <a href="https://www.coursera.org/learn/tidyverse-data-wrangling?specialization=tidyverse-data-science-r">Wrangling Data in the Tidyverse</a> <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/3f/ccacb8d4ba4c2fa8ba919b6c81ac73/Tidyverse-Wrangling.png?auto=format%2Ccompress&dpr=2&w=150&h=150&fit=fill&bg=FFF"  width="100" /> 4. <a href="https://www.coursera.org/learn/tidyverse-visualize-data?specialization=tidyverse-data-science-r">Visualizing Data in the Tidyverse</a> <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/ae/0d03e562cd4507a40fb04aba28a2c2/Tidyverse-Visualizing.png?auto=format%2Ccompress&dpr=2&w=150&h=150&q=40&fit=fill&bg=FFF"  width="100" /> 5. <a href="https://www.coursera.org/learn/tidyverse-modelling-data">Modeling Data in the Tidyverse</a> <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/e4/59b84597944b43b12d84a3534c5942/Tidyverse-Modeling.png?auto=format%2Ccompress&dpr=2&w=150&h=150&q=40&fit=fill&bg=FFF"  width="100" /></li>
+</ol>
+</div>
 </div>
 
 
@@ -376,7 +424,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -394,7 +442,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>

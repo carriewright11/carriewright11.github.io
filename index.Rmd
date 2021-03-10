@@ -16,7 +16,9 @@
 
 &nbsp;
 
-Carrie Wright is a Research Associate in the Department of [Biostatistics](https://www.jhsph.edu/departments/biostatistics/) at the [Johns Hopkins Bloomberg School of Public Health (JHSPH)](https://www.jhsph.edu/). Dr. Wright is a member of the [Johns Hopkins Data Science Lab (DaSL)](https://jhudatascience.org/) and the [Open Case Studies](https://opencasestudies.github.io/) team.  Prior to joining the JHSPH, Dr. Wright was a Posdoctoral Fellow at the [Lieber Institute for Brain Development (LIBD)](https://www.libd.org/), where her research focused on uncovering genetic mechanisms in psychiatric disease through the utilization of data science tools. At LIBD, Dr. Wright cofounded the [LIBD rstats club](http://research.libd.org/rstatsclub/), a community designed to encourage others to learn more about R programming and statistics. Dr. Wright has also served as an instructor for the [Baltimore Underground Science Space](http://www.bugssonline.org/) and the [Johns Hopkins Center for Talented Youth](https://cty.jhu.edu/).
+Carrie Wright is a Research Associate in the Department of [Biostatistics](https://www.jhsph.edu/departments/biostatistics/) at the [Johns Hopkins Bloomberg School of Public Health (JHSPH)](https://www.jhsph.edu/). Dr. Wright is a member of the [Johns Hopkins Data Science Lab (DaSL)](https://jhudatascience.org/) and the [Open Case Studies](https://opencasestudies.github.io/) team.  Dr. Wright's work is focused on innovating ways to make data science and computational biology more accessable to audiences of varied computational experience.
+
+Prior to joining the JHSPH, Dr. Wright was a Posdoctoral Fellow at the [Lieber Institute for Brain Development (LIBD)](https://www.libd.org/), where her research focused on uncovering genetic mechanisms in psychiatric disease through the utilization of data science tools. At LIBD, Dr. Wright cofounded the [LIBD rstats club](http://research.libd.org/rstatsclub/), a community designed to encourage others to learn more about R programming and statistics. Dr. Wright has also served as an instructor for the [Baltimore Underground Science Space](http://www.bugssonline.org/) and the [Johns Hopkins Center for Talented Youth](https://cty.jhu.edu/).
 
 &nbsp;
 
@@ -36,15 +38,10 @@ Carrie Wright is a Research Associate in the Department of [Biostatistics](https
 
 &nbsp;
 
-Dr. Wright was a Postdoctoral Fellow at the [Lieber Institute for Brain Development](https://www.libd.org/) at the [Johns Hopkins School of Medicine](https://www.hopkinsmedicine.org/) under the advisement of [Dr. Daniel Weinberger](https://en.wikipedia.org/wiki/Daniel_R._Weinberger) from 2014 - 2019. 
+Dr. Wright was a Postdoctoral Fellow at the [Lieber Institute for Brain Development](https://www.libd.org/) at the [Johns Hopkins School of Medicine](https://www.hopkinsmedicine.org/) under the advisement of [Dr. Daniel Weinberger](https://en.wikipedia.org/wiki/Daniel_R._Weinberger) from 2014 - 2019.
 
 
 She began her fellowship in October of 2014, as an AstraZeneca fellow (2014 - 2017). During her time at the [Lieber Institute for Brain Development](https://www.libd.org), she led an initiative to develop a small RNA sequencing protocol for estimating small RNA expression in more than 1600 brain samples. She also worked on several projects exploring gene expression alterations in a variety of psychiatric disorders, including schizophrenia, bipolar disorder, and autism spectrum disorder. Dr. Wright also co-founded the [LIBD Rstats Club](http://research.libd.org/rstatsclub/) with [Leonardo Collado-Torres](http://lcolladotor.github.io) and [Emily Burke](https://www.libd.org/team/emily-e-burke/). 
-
-
-
-
-
 
 
 
@@ -58,30 +55,4 @@ Dr. Wright's graduate work was performed at the [University of New Mexico School
 
 
 
- `r icon::fa("brain")`
-
-
-### Interests
-
-&nbsp;
-
-* `r icon::fa("stethoscope")` Clinical Research
-* `r icon::fa("brain")` Brain disorders
-* `r icon::fa("dna")` Genomics 
-* `r icon::fa("search-minus")` Non-coding RNA 
-* `r icon::fa("tachometer-alt")` Gene regulation 
-* `r icon::fa("r-project")` R programming 
-* `r icon::fa("chart-bar")` Biostatistics 
-* `r icon::fa("chalkboard")` Education
-
-
-### Profiles 
-
-&nbsp;
-
-* [`r icon::fa("linkedin")` LinkedIn](https://www.linkedin.com/in/carrie-wright-36458344/)
-* [`r icon::fa("github")` GitHub](http://github.com/carriewright11)
-* [`r icon::ai_academia(name = "researchgate")` Research Gate](https://www.researchgate.net/profile/Carrie_Wright6)
-* [`r icon::ai_academia(name = "google-scholar")` Google Scholar](https://scholar.google.com/citations?user=LVotQ9oAAAAJ&hl=en)
-* <i class="fab fa-twitter" style="color:#226FC3;"><!-- icon --></i> [Twitter](https://twitter.com/mirnas22)
 
