@@ -19,6 +19,7 @@ navbar:
     href: affiliations.html
   - text: Contact
     href: contact.html
+    icon: fa-envelope
   # right:
   # - icon: fa-envelope fa-lg
   #   href: contact.html
