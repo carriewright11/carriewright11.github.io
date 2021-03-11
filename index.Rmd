@@ -33,8 +33,10 @@ You can find Carrie on GitHub at [carriewright11](https://github.com/carriewrigh
 &nbsp;
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=300&t=n&d=mMJdncczrKczeO0j6-ofVvIOdAmrUwpy0FcAIJeCdV0&co=0b4975&ct=cdd4d9&cmo=3acc3a&cmn=ff5353'></script>
+<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=300&t=n&d=mMJdncczrKczeO0j6-ofVvIOdAmrUwpy0FcAIJeCdV0&co=0b4975&ct=cdd4d9&cmo=3acc3a&cmn=ff5353'></script> -->
 
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=300&t=tt&d=mMJdncczrKczeO0j6-ofVvIOdAmrUwpy0FcAIJeCdV0&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9"></script>
 ### Postdoctoral Work
 
 &nbsp;
@@ -54,6 +56,6 @@ Dr. Wright obtained a PhD in [Biomedical Sciences](https://hsc.unm.edu/research/
 
 Dr. Wright's graduate work was performed at the [University of New Mexico School of Medicine](https://som.unm.edu/) and the [Mind Research Network](https://www.mrn.org/). She was co-advised by [Dr. Nora Perrone-Bizzozero](https://hsc.unm.edu/nmarc/directory/researcher-profiles/nora-perrone-bizzozero.html), an expert of post-transcriptional gene regulation of nervous system development and [Dr. Jessica Turner](http://psychology.gsu.edu/profile/jessica-turner/), an expert of neuroinformatics and imaging genetics. With their mentorship, Dr. Wright wrote several of the first publications characterizing the potential influence of genetic variants within the microRNA137 (miR-137) host gene and the genes regulated by miR-137 within the context of schizophrenia.
 
-<img src="NM.png" alt="drawing" style="width:50px;"/>
+<img src="NM.jpg" alt="drawing" style="width:50px;"/>
 
 
