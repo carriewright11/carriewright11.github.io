@@ -1,4 +1,3 @@
-
 ###
 ###
 &nbsp;
@@ -6,15 +5,10 @@
 &nbsp;
 &nbsp;
 &nbsp;
-
-
 
 ## About {.tabset .tabset-fade}
 &nbsp;
 
-### About
-
-&nbsp;
 
 Carrie Wright is a Research Associate in the Department of [Biostatistics](https://www.jhsph.edu/departments/biostatistics/) at the [Johns Hopkins Bloomberg School of Public Health (JHSPH)](https://www.jhsph.edu/). Dr. Wright is a member of the [Johns Hopkins Data Science Lab (DaSL)](https://jhudatascience.org/), the [Open Case Studies](https://opencasestudies.github.io/) team, and the [Informatics Technology for Cancer Research (ITCR) Training Network (ITN)](https://www.itcrtraining.org/).  Dr. Wright's work is focused on innovating ways to make data science and computational biology more accessable to audiences of varied computational experience.
 
@@ -25,6 +19,8 @@ See Dr. Wright's CV on [overleaf](https://www.overleaf.com/read/jkhxnxcyctjn).
 
 You can find Carrie on GitHub at [carriewright11](https://github.com/carriewright11/).
 
+
+
 &nbsp;<center>
 ![](http://ghchart.rshah.org/DA2536/carriewright11.svg){width=500px, }
 </center>
@@ -33,33 +29,7 @@ You can find Carrie on GitHub at [carriewright11](https://github.com/carriewrigh
 &nbsp;
 
 
-<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=300&t=n&d=mMJdncczrKczeO0j6-ofVvIOdAmrUwpy0FcAIJeCdV0&co=0b4975&ct=cdd4d9&cmo=3acc3a&cmn=ff5353'></script> -->
-
-
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=300&t=tt&d=mMJdncczrKczeO0j6-ofVvIOdAmrUwpy0FcAIJeCdV0&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9"></script>
-### Training
-
-#### Postdoctoral Work
-
-&nbsp;
-
-Dr. Wright was a Postdoctoral Fellow at the [Lieber Institute for Brain Development](https://www.libd.org/) at the [Johns Hopkins School of Medicine](https://www.hopkinsmedicine.org/) under the advisement of [Dr. Daniel Weinberger](https://en.wikipedia.org/wiki/Daniel_R._Weinberger) from 2014 - 2019.
 
 
-She began her fellowship in October of 2014, as an AstraZeneca fellow (2014 - 2017). During her time at the [Lieber Institute for Brain Development](https://www.libd.org), she led an initiative to develop a small RNA sequencing protocol for estimating small RNA expression in more than 1600 brain samples. She also worked on several projects exploring gene expression alterations in a variety of psychiatric disorders, including schizophrenia, bipolar disorder, and autism spectrum disorder. Dr. Wright also co-founded the [LIBD Rstats Club](http://research.libd.org/rstatsclub/) with [Leonardo Collado-Torres](http://lcolladotor.github.io) and [Emily Burke](https://www.libd.org/team/emily-e-burke/). 
-
-`r icons::fontawesome("brain", style = "solid")`
-
-&nbsp;
-
-#### Graduate Work
-
-&nbsp;
-
-Dr. Wright obtained a PhD in [Biomedical Sciences](https://hsc.unm.edu/research/brep/graduate/bsgp/index.html) at the [University of New Mexico School of Medicine](https://som.unm.edu/).  
-
-Dr. Wright's graduate work was performed at the [University of New Mexico School of Medicine](https://som.unm.edu/) and the [Mind Research Network](https://www.mrn.org/). She was co-advised by [Dr. Nora Perrone-Bizzozero](https://hsc.unm.edu/nmarc/directory/researcher-profiles/nora-perrone-bizzozero.html), an expert of post-transcriptional gene regulation of nervous system development and [Dr. Jessica Turner](http://psychology.gsu.edu/profile/jessica-turner/), an expert of neuroinformatics and imaging genetics. With their mentorship, Dr. Wright wrote several of the first publications characterizing the potential influence of genetic variants within the microRNA137 (miR-137) host gene and the genes regulated by miR-137 within the context of schizophrenia.
-
-<img src="NM.jpg" alt="drawing" style="width:30px;"/>
-
-
+<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=300&t=n&d=mMJdncczrKczeO0j6-ofVvIOdAmrUwpy0FcAIJeCdV0&co=0b4975&ct=cdd4d9&cmo=3acc3a&cmn=ff5353'></script> -->
