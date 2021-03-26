@@ -5,6 +5,8 @@ navbar:
   left:
   - text: Home
     href: index.html
+  - text: Education
+    href: training.html
   - text: Publications
     href: publications.html
   - text: Presentations
