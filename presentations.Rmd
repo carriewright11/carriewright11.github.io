@@ -50,6 +50,7 @@
 
 ### Talks
 
+2021 [NIH Data Science for Science Teachers Boot Camp](https://datascience.nih.gov/data-science-science-teachers-boot-camp), talk titled ["Why Statistics Matters"](https://docs.google.com/presentation/d/1BljMC9zBp4vqqk47ecJ-cHe_6lAzqUim6IzLUoFuuKU/edit?usp=sharing)
 
 2020   [Bloomberg American Health Summit 2020](https://americanhealth.jhu.edu/2020-bloomberg-american-health-summit), with Stephanie Hicks, location virtual, talk titled "[Open Case Studies](https://docs.google.com/presentation/d/18jymRcaW2eh6cNmN6HbazaTg8OJFToQ28kvIpeN4CGg/edit?usp=sharing)" 
 
