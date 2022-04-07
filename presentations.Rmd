@@ -50,9 +50,11 @@
 
 ### Talks
 
+2022 [Current Topics in Biostatistics Research -Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/courses/course/33632/2021/140.860.01/current-topics-in-biostatistics-research), talk titled ["Data Science Education –A Catalyst for Change: Promoting research, community engagement, and IDARE through education initiatives"](https://docs.google.com/presentation/d/1FOIxB-pK6n24wUNSQ_yHFUGQBQP9zAUQrYAJnqh1o9c/edit#slide=id.p)
+
 2021 [NIH Data Science for Science Teachers Boot Camp](https://datascience.nih.gov/data-science-science-teachers-boot-camp), talk titled ["Why Statistics Matters"](https://docs.google.com/presentation/d/1BljMC9zBp4vqqk47ecJ-cHe_6lAzqUim6IzLUoFuuKU/edit?usp=sharing)
 
-2020   [Bloomberg American Health Summit 2020](https://americanhealth.jhu.edu/2020-bloomberg-american-health-summit), with Stephanie Hicks, location virtual, talk titled "[Open Case Studies](https://docs.google.com/presentation/d/18jymRcaW2eh6cNmN6HbazaTg8OJFToQ28kvIpeN4CGg/edit?usp=sharing)" 
+2020  [Bloomberg American Health Summit 2020](https://americanhealth.jhu.edu/2020-bloomberg-american-health-summit), with Stephanie Hicks, location virtual, talk titled "[Open Case Studies](https://docs.google.com/presentation/d/18jymRcaW2eh6cNmN6HbazaTg8OJFToQ28kvIpeN4CGg/edit?usp=sharing)" 
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/T1B5q6jdP6U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
