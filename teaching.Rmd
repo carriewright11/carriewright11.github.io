@@ -141,6 +141,10 @@ Taught a variety of science courses to children age 3-12
 
 ### Books
 
+2022 **An Educator’s Guide to the Open Case Studies**, Carrie Wright, Michael Breshock, Lyla Atta, and Stephanie Hicks. https://leanpub.com/opencasestudies_guide
+
+<p style="text-align:center;"> <img src="https://d2sofvawe08yqg.cloudfront.net/opencasestudies_guide/s_hero2x?1648052951" width="300" /></p>
+
 2020 **Tidyverse Skills for Data Science in R**, Carrie Wright, Shannon Ellis, Stephanie Hicks, and Roger D. Peng. https://leanpub.com/tidyverseskillsdatascience
 
 <p style="text-align:center;"> <img src="https://d2sofvawe08yqg.cloudfront.net/tidyverseskillsdatascience/hero2x?1612295938" width="300" /></p>
