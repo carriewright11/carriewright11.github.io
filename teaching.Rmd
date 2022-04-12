@@ -153,6 +153,10 @@ Taught a variety of science courses to children age 3-12
 
 ### Online Courses
 
+2022 - [**Computing for Cancer Informatics**](https://jhudatascience.org/Computing_for_Cancer_Informatics/) on [Coursera](https://www.coursera.org/learn/computing-for-cancer-informatics/) and [Leanpub](https://leanpub.com/universities/courses/jhu/cancer-informatics-computing)
+
+2021 - [**Leadership for Cancer Informatics Research**](https://jhudatascience.org/Informatics_Research_Leadership/) on [Coursera](https://www.coursera.org/learn/leadership-for-cancer-informatics-research) and [Leanpub](https://leanpub.com/universities/courses/jhu/cancer-informatics-for-research-leaders)
+
 2020  - [**Tidyverse Skills for Data Science in R Specialization**, Carrie Wright, Shannon Ellis, Stephanie Hicks, and Roger D. Peng.](https://www.coursera.org/specializations/tidyverse-data-science-r)
 <p style="text-align:center;"> <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/c5/522e22e9ca4b579919f68341759e5c/Tidyverse.png?auto=format%2Ccompress&dpr=2&w=150&h=150&fit=fill&bg=FFF" width="300" /></p>
 
