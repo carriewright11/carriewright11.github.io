@@ -73,11 +73,20 @@ https://github.com/opencasestudies/ocs-bp-diet
 
 ### Instruction
 
+2022 **Course Instructor** - not yet rated
+[140.604.79 – Introduction to R for Public Health Researchers](https://github.com/jhudsl/intro_to_r), Virtual, Johns Hopkins Bloomberg School of Public Health Summer Institutes Term (approx 40 students)
+
+2022 **Course Co-creator & Instructor** - not rated
+[PH.140.840 – Baltimore Community Data Science](https://jhudatascience.org/Baltimore_Community_Course/), Virtual, Johns Hopkins Bloomberg School of Public Health Summer Institutes Term (11 students)
+
+2022 **Course Instructor** - rated as excellent by students
+[140.604.73 – Introduction to R for Public Health Researchers](https://github.com/jhudsl/intro_to_r), Virtual, Johns Hopkins Bloomberg School of Public Health Winter Institutes Term (approx 30 students)
+
 2021 **Short Course Instructor**
-[Summer Institutes](https://si.biostat.washington.edu/), Virtual, ["Data Wrangling"](https://github.com/SISBID/Data-Wrangling) (approx 45 students)
+[University of Washington Biostatistics Summer Institutes](https://si.biostat.washington.edu/), Virtual, ["Data Wrangling"](https://github.com/SISBID/Data-Wrangling) (approx 45 students)
 
 2021 **Course Instructor**
-[140.604.11 – Introduction to R for Public Health Researchers**](https://github.com/jhudsl/intro_to_r), Virtual, Johns Hopkins Bloomberg School of Public Health Summer Institutes Term (34 students)
+[140.604.11 – Introduction to R for Public Health Researchers](https://github.com/jhudsl/intro_to_r), Virtual, Johns Hopkins Bloomberg School of Public Health Summer Institutes Term (34 students)
 
 2020 **Workshop Instructor**
 [R-Ladies Baltimore](https://www.meetup.com/rladies-baltimore/events/263289042/), Virtual

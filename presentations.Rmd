@@ -10,6 +10,38 @@
 ## Presentations {.tabset .tabset-fade}
 &nbsp;
 
+
+### Talks
+
+2022 [International Chinese Statistical Association (ICSA)](https://www.icsa.org/), invited talk titled [Case studies to community engagement: Bringing hands-on data science experiences to the classroom](https://docs.google.com/presentation/d/1rN1oNZ-On4vuPanktF-HVQcS_Fr3mSqKu6pcxfwsgJI/edit?usp=sharing)
+
+2022 [American Association for Cancer Research (AACR)](https://www.aacr.org/meeting/aacr-annual-meeting-2022/), talk delivered with others titled [NCI Resource: Informatics Tools and Training Opportunities
+- The ITCR training network](https://docs.google.com/presentation/d/1awxpi6dWtjc2luusgZguIZsIYxkl4LAfXHqGJ5gs08k/edit?usp=sharing) 
+
+2022 [Current Topics in Biostatistics Research -Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/courses/course/33632/2021/140.860.01/current-topics-in-biostatistics-research), talk titled ["Data Science Education –A Catalyst for Change: Promoting research, community engagement, and IDARE through education initiatives"](https://docs.google.com/presentation/d/1FOIxB-pK6n24wUNSQ_yHFUGQBQP9zAUQrYAJnqh1o9c/edit#slide=id.p)
+
+2021 [NIH Data Science for Science Teachers Boot Camp](https://datascience.nih.gov/data-science-science-teachers-boot-camp), talk titled ["Why Statistics Matters"](https://docs.google.com/presentation/d/1BljMC9zBp4vqqk47ecJ-cHe_6lAzqUim6IzLUoFuuKU/edit?usp=sharing)
+
+2020  [Bloomberg American Health Summit 2020](https://americanhealth.jhu.edu/2020-bloomberg-american-health-summit), with Stephanie Hicks, location virtual, talk titled "[Open Case Studies](https://docs.google.com/presentation/d/18jymRcaW2eh6cNmN6HbazaTg8OJFToQ28kvIpeN4CGg/edit?usp=sharing)" 
+
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/T1B5q6jdP6U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+2017 	World Congress on Psychiatric Genetics (WCPG), Orlando, Florida, symposium talk titled “Characterization of miRNA isoform expression in schizophrenia using human postmortem brain tissue”
+ 
+2017 	Johns Hopkins Schizophrenia Center Monthly Seminar Series, symposium talk titled “Characterization of miRNA and miRNA isoform expression in schizophrenia”
+
+2016 	World Congress on Psychiatric Genetics (WCPG), Jerusalem, Israel, symposium talk titled “Genes within the miR-137 regulation network cluster within pathways relevant for schizophrenia and related endophenotypes”
+
+2016 	Society of Biological Psychiatry (SOBP), Atlanta, Georgia, symposium talk titled “MicroRNA 137 and its regulated genes are associated with brain imaging measures in schizophrenia”
+
+2014	Radboud University Medical Center and Donders Institute, Department of Human Genetics, Nijmegen, the Netherlands, oral presentation titled “Meta gene set variant enrichment analysis of miR-137 predicted and validated targets reveals schizophrenia vulnerable pathways”
+
+2011	Biomedical Sciences Graduate Program Student Research Day, University of New Mexico, oral presentation titled “Integration of adult-born hippocampal dentate granule cells following fetal alcohol exposure”
+
+2009	Biology Department Research Day, University of New Mexico, oral presentation titled“It’s always female choice - premating visual choice of female Cyprinodon rubrofluviatilis and Cyprinodon variegatus”
+
+2009	NIMH Career Opportunities in Research Colloquium, Albuquerque, New Mexico, oral presentation titled “Effects of ABT-239 on fetal ethanol-exposure induced learning deficits”
+
 ### Posters
 
 2019    Cold Spring Harbor Biology of Genomes. Cold Spring Harbor, New York, USA, poster presentation titled "Assessment of bias and miRNA isoform quantifications of widely-used small RNA sequencing methods reveals major differences"
@@ -47,29 +79,3 @@
 
 2008	Annual Biomedical Research Conference for Minority Students (ABERCAMS), Orlando, Florida, poster presentation titled “Effects of maternal drinking during pregnancy on  placental gene expression and protein function” 
 
-
-### Talks
-
-2022 [Current Topics in Biostatistics Research -Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/courses/course/33632/2021/140.860.01/current-topics-in-biostatistics-research), talk titled ["Data Science Education –A Catalyst for Change: Promoting research, community engagement, and IDARE through education initiatives"](https://docs.google.com/presentation/d/1FOIxB-pK6n24wUNSQ_yHFUGQBQP9zAUQrYAJnqh1o9c/edit#slide=id.p)
-
-2021 [NIH Data Science for Science Teachers Boot Camp](https://datascience.nih.gov/data-science-science-teachers-boot-camp), talk titled ["Why Statistics Matters"](https://docs.google.com/presentation/d/1BljMC9zBp4vqqk47ecJ-cHe_6lAzqUim6IzLUoFuuKU/edit?usp=sharing)
-
-2020  [Bloomberg American Health Summit 2020](https://americanhealth.jhu.edu/2020-bloomberg-american-health-summit), with Stephanie Hicks, location virtual, talk titled "[Open Case Studies](https://docs.google.com/presentation/d/18jymRcaW2eh6cNmN6HbazaTg8OJFToQ28kvIpeN4CGg/edit?usp=sharing)" 
-
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/T1B5q6jdP6U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
-2017 	World Congress on Psychiatric Genetics (WCPG), Orlando, Florida, symposium talk titled “Characterization of miRNA isoform expression in schizophrenia using human postmortem brain tissue”
- 
-2017 	Johns Hopkins Schizophrenia Center Monthly Seminar Series, symposium talk titled “Characterization of miRNA and miRNA isoform expression in schizophrenia”
-
-2016 	World Congress on Psychiatric Genetics (WCPG), Jerusalem, Israel, symposium talk titled “Genes within the miR-137 regulation network cluster within pathways relevant for schizophrenia and related endophenotypes”
-
-2016 	Society of Biological Psychiatry (SOBP), Atlanta, Georgia, symposium talk titled “MicroRNA 137 and its regulated genes are associated with brain imaging measures in schizophrenia”
-
-2014	Radboud University Medical Center and Donders Institute, Department of Human Genetics, Nijmegen, the Netherlands, oral presentation titled “Meta gene set variant enrichment analysis of miR-137 predicted and validated targets reveals schizophrenia vulnerable pathways”
-
-2011	Biomedical Sciences Graduate Program Student Research Day, University of New Mexico, oral presentation titled “Integration of adult-born hippocampal dentate granule cells following fetal alcohol exposure”
-
-2009	Biology Department Research Day, University of New Mexico, oral presentation titled“It’s always female choice - premating visual choice of female Cyprinodon rubrofluviatilis and Cyprinodon variegatus”
-
-2009	NIMH Career Opportunities in Research Colloquium, Albuquerque, New Mexico, oral presentation titled “Effects of ABT-239 on fetal ethanol-exposure induced learning deficits”
