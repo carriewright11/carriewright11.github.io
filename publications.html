@@ -11,9 +11,10 @@
 
 
 
-<title>Publications.utf8</title>
+<title>Publications.knit</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -61,6 +62,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -81,6 +83,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -233,7 +238,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -268,7 +273,7 @@ $(document).ready(function () {
 </li>
 <li>
   <a href="contact.html">
-    <span class="fas fa-envelope"></span>
+    <span class="fa fa-envelope"></span>
      
     Contact
   </a>
@@ -297,35 +302,102 @@ $(document).ready(function () {
 <p>         </p>
 </div>
 <div id="publications" class="section level2 tabset tabset-fade">
-<h2>Publications</h2>
+<h2 class="tabset tabset-fade">Publications</h2>
 <p> </p>
 <div id="first-author-publications" class="section level3">
 <h3>First Author Publications</h3>
 <ol style="list-style-type: decimal">
-<li><p><strong>Wright C.*</strong>, Rajpurohit A.*, Jaffe A., Burke, E., Williams, C., Collado-Torres, L., Kimos, M., Brandon N., Cross A.J., Weinberger D. R., and Shin J. H. (2019) Comprehensive assessment of multiple biases in small RNA sequencing reveals significant differences in the performance of widely used methods. BMC Genomics. 20(1):513. PMID: <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5870-3">1226924</a> * These authors contributed equally to this work.</p></li>
-<li><p>Rosenberg A. Z*., <strong>Wright C*</strong>., Fox-Talbot K., Rajpurohit A., Williams C., Porter C., Foulke-Abel J, Kovbasnjuk O., McCall M. N., Shin J. H., Haluska, M. K. (2018) xMD-miRNA-seq to generate near in vivo miRNA expression estimates in colon epithelial cells. Scientific Reports. 8(1):9783. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29955168">29955168</a> * These authors contributed equally to this work.</p></li>
-<li><p><strong>Wright C.</strong>, Ross D. A., and Weinberger D. R. (2018) Small RNAs may answer big questions in mental illness. Biological Psychiatry. 83(1):e1. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=29173708">29173708</a></p></li>
-<li><p><strong>Wright C.</strong>, Shin J. H., Jaffe A., Rajpurohit A., Brandon N., Cross A., Hyde T. M., Kleinman, J. E., and Weinberger D. R. (2017) Altered expression of histamine signaling genes in Autism Spectrum Disorder. Translational Psychiatry. 7(5):e1126. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=28485729">28485729</a></p></li>
-<li><p><strong>Wright C.</strong>, Gupta C. N., Chen J., Patel V., Calhoun V.D., Ehrlich S., Wang L., Bustillo J. R., Perrone-Bizzozero N., and Turner J. A. (2016) Polymorphisms in MIR137HG and microRNA-137 regulated genes influence gray matter structure in schizophrenia. Translational Psychiatry. 6:e724. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=26836412">26836412</a></p></li>
-<li><p><strong>Wright C.</strong>, Calhoun V., Ehrlich S., Wang L., Turner J.A., and Perrone-Bizzozero N. (2015) Meta gene set enrichment analyses link miR-137-regulated pathways with schizophrenia risk. Frontiers in Genetics. 6:147. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=25941532">25941532</a></p></li>
-<li><p><strong>Wright C.</strong>, Turner J.A., Calhoun V.D. and Perrone-Bizzozero N. (2013) Potential impact of miR-137 and its targets in schizophrenia. Frontiers in Genetics. 4:58. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=23637704">23637704</a></p></li>
+<li><p><strong>Wright C.*</strong>, Rajpurohit A.*, Jaffe A., Burke, E.,
+Williams, C., Collado-Torres, L., Kimos, M., Brandon N., Cross A.J.,
+Weinberger D. R., and Shin J. H. (2019) Comprehensive assessment of
+multiple biases in small RNA sequencing reveals significant differences
+in the performance of widely used methods. BMC Genomics. 20(1):513.
+PMID: <a
+href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5870-3">1226924</a>
+* These authors contributed equally to this work.</p></li>
+<li><p>Rosenberg A. Z*., <strong>Wright C*</strong>., Fox-Talbot K.,
+Rajpurohit A., Williams C., Porter C., Foulke-Abel J, Kovbasnjuk O.,
+McCall M. N., Shin J. H., Haluska, M. K. (2018) xMD-miRNA-seq to
+generate near in vivo miRNA expression estimates in colon epithelial
+cells. Scientific Reports. 8(1):9783. PMID: <a
+href="https://www.ncbi.nlm.nih.gov/pubmed/29955168">29955168</a> * These
+authors contributed equally to this work.</p></li>
+<li><p><strong>Wright C.</strong>, Ross D. A., and Weinberger D. R.
+(2018) Small RNAs may answer big questions in mental illness. Biological
+Psychiatry. 83(1):e1. PMID: <a
+href="https://www.ncbi.nlm.nih.gov/pubmed/?term=29173708">29173708</a></p></li>
+<li><p><strong>Wright C.</strong>, Shin J. H., Jaffe A., Rajpurohit A.,
+Brandon N., Cross A., Hyde T. M., Kleinman, J. E., and Weinberger D. R.
+(2017) Altered expression of histamine signaling genes in Autism
+Spectrum Disorder. Translational Psychiatry. 7(5):e1126. PMID: <a
+href="https://www.ncbi.nlm.nih.gov/pubmed/?term=28485729">28485729</a></p></li>
+<li><p><strong>Wright C.</strong>, Gupta C. N., Chen J., Patel V.,
+Calhoun V.D., Ehrlich S., Wang L., Bustillo J. R., Perrone-Bizzozero N.,
+and Turner J. A. (2016) Polymorphisms in MIR137HG and microRNA-137
+regulated genes influence gray matter structure in schizophrenia.
+Translational Psychiatry. 6:e724. PMID: <a
+href="https://www.ncbi.nlm.nih.gov/pubmed/?term=26836412">26836412</a></p></li>
+<li><p><strong>Wright C.</strong>, Calhoun V., Ehrlich S., Wang L.,
+Turner J.A., and Perrone-Bizzozero N. (2015) Meta gene set enrichment
+analyses link miR-137-regulated pathways with schizophrenia risk.
+Frontiers in Genetics. 6:147. PMID: <a
+href="https://www.ncbi.nlm.nih.gov/pubmed/?term=25941532">25941532</a></p></li>
+<li><p><strong>Wright C.</strong>, Turner J.A., Calhoun V.D. and
+Perrone-Bizzozero N. (2013) Potential impact of miR-137 and its targets
+in schizophrenia. Frontiers in Genetics. 4:58. PMID: <a
+href="https://www.ncbi.nlm.nih.gov/pubmed/?term=23637704">23637704</a></p></li>
 </ol>
 </div>
 <div id="secondary-author-publications" class="section level3">
 <h3>Secondary Author Publications</h3>
 <ol style="list-style-type: decimal">
-<li><p>Maphis N.M., Jiang S., Binder J., <strong>Wright C.</strong>, Gopalan B., Lamb B.T., and Bhasker K. (2017) Whole genome expression analysis in a mouse model of tauopathy identifies MECP2 as a possible regulator of tau pathology. Frontiers in molecular neuroscience. 10:69. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=28367114">28367114</a></p></li>
-<li><p>Patel V.S., Kelly S., <strong>Wright C.</strong>, Gupta C. N., Arias-Vasquez A., Perrone-Bizzozero N., Ehrlich S., Wang L., Bustillo J.R., Morris D., Corvin A., Cannon D.M., McDonald C., Donohoe G., Calhoun V.D., and Turner J.A. (2015) MIR137HG risk variant rs1625579 genotype is related to corpus callosum volume in schizophrenia, Neuroscience Letters. 602: 44. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=26123324">26123324</a></p></li>
-<li><p>Gupta C.N., Chen J., Liu J., Damaraju E., <strong>Wright C.</strong>, Perrone-Bizzozero N.I., Pearlson G., Luo L., Michael A.M., Turner J.A., and Calhoun V.D. (2015) Genetic markers of white matter integrity in schizophrenia revealed by parallel ICA. Front. Hum. Neurosci. 9:100. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=25784871">25784871</a></p></li>
-<li><p>Hass J., Walton E., <strong>Wright C.</strong>, Beyer A., Scholz M., Turner J., Liu J., Smolka M.N., Roessner V., Sponheim S.R., Gollub R.L., Calhoun V.D., and Ehrlich S. (2015) Associations between DNA methylation and schizophrenia-related intermediate phenotypes - a gene set enrichment analysis. Prog Neuropsychopharmacol Biol Psychiatry. 59:31. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=25598502">25598502</a></p></li>
-<li><p>Savage D. D., Rosenberg M. J., Wolff C. R., Akers K. G., El-Emawy A., Staples M. C., Varaschin R. K., <strong>Wright C.</strong>, Seidel J. L., and Caldwell K. K. (2010). Effects of a novel cognition-enhancing agent on fetal ethanol-induced learning deficits. Alcoholism: Clinical and Experimental Research. 34: 1793. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=20626729">20626729</a></p></li>
+<li><p>Savonen, C., <strong>Wright, C.</strong>, Hoffman, A.M.,
+Muschelli, J., Cox, K., Tan, F.J., and Leek, J.T., (2022). Open-source
+Tools for Training Resources – OTTR. I Journal of Statistics and Data
+Science Education,<a
+href="https://doi.org/10.1080/26939169.2022.2118646">doi:
+10.1080/26939169.2022.2118646</a><br />
+</p></li>
+<li><p>The Genomic Data Science Community Network (2022). Diversifying
+the genomic data science research community. Genome Res. 32, 1231–1241.
+<a href="PMID:%5B35858750%5D(https://pubmed.ncbi.nlm.nih.gov/35858750/"
+class="uri">PMID:[35858750](https://pubmed.ncbi.nlm.nih.gov/35858750/</a>)</p></li>
+<li><p>Maphis N.M., Jiang S., Binder J., <strong>Wright C.</strong>,
+Gopalan B., Lamb B.T., and Bhasker K. (2017) Whole genome expression
+analysis in a mouse model of tauopathy identifies MECP2 as a possible
+regulator of tau pathology. Frontiers in molecular neuroscience. 10:69.
+PMID: <a
+href="https://www.ncbi.nlm.nih.gov/pubmed/?term=28367114">28367114</a></p></li>
+<li><p>Patel V.S., Kelly S., <strong>Wright C.</strong>, Gupta C. N.,
+Arias-Vasquez A., Perrone-Bizzozero N., Ehrlich S., Wang L., Bustillo
+J.R., Morris D., Corvin A., Cannon D.M., McDonald C., Donohoe G.,
+Calhoun V.D., and Turner J.A. (2015) MIR137HG risk variant rs1625579
+genotype is related to corpus callosum volume in schizophrenia,
+Neuroscience Letters. 602: 44. PMID: <a
+href="https://www.ncbi.nlm.nih.gov/pubmed/?term=26123324">26123324</a></p></li>
+<li><p>Gupta C.N., Chen J., Liu J., Damaraju E., <strong>Wright
+C.</strong>, Perrone-Bizzozero N.I., Pearlson G., Luo L., Michael A.M.,
+Turner J.A., and Calhoun V.D. (2015) Genetic markers of white matter
+integrity in schizophrenia revealed by parallel ICA. Front. Hum.
+Neurosci. 9:100. PMID: <a
+href="https://www.ncbi.nlm.nih.gov/pubmed/?term=25784871">25784871</a></p></li>
+<li><p>Hass J., Walton E., <strong>Wright C.</strong>, Beyer A., Scholz
+M., Turner J., Liu J., Smolka M.N., Roessner V., Sponheim S.R., Gollub
+R.L., Calhoun V.D., and Ehrlich S. (2015) Associations between DNA
+methylation and schizophrenia-related intermediate phenotypes - a gene
+set enrichment analysis. Prog Neuropsychopharmacol Biol Psychiatry.
+59:31. PMID: <a
+href="https://www.ncbi.nlm.nih.gov/pubmed/?term=25598502">25598502</a></p></li>
+<li><p>Savage D. D., Rosenberg M. J., Wolff C. R., Akers K. G., El-Emawy
+A., Staples M. C., Varaschin R. K., <strong>Wright C.</strong>, Seidel
+J. L., and Caldwell K. K. (2010). Effects of a novel cognition-enhancing
+agent on fetal ethanol-induced learning deficits. Alcoholism: Clinical
+and Experimental Research. 34: 1793. PMID: <a
+href="https://www.ncbi.nlm.nih.gov/pubmed/?term=20626729">20626729</a></p></li>
 </ol>
-</div>
-<div id="preprints" class="section level3">
-<h3>Preprints</h3>
-<ol style="list-style-type: decimal">
-<li><strong>Wright C.*</strong>, Rajpurohit A.*, Jaffe A., Burke, E., Williams, C., Collado-Torres, L., Kimos, M., Brandon N., Cross A.J., Weinberger D. R., and Shin J. H. (2018) Comprehensive assessment of multiple biases in small RNA sequencing reveals significant differences in the performance of widely used methods. bioRxiv. <a href="https://www.biorxiv.org/content/early/2018/10/30/445437">doi:10.1101/445437</a> * These authors contributed equally to this work.</li>
-</ol>
+<!-- ### Preprints -->
+<!-- 1. Savonen, C., **Wright, C.**, Hoffman, A.M., Muschelli, J., Cox, K., Tan, F.J., and Leek, J.T., (2022). -->
+<!-- Open-source Tools for Training Resources – OTTR. [arXiv:2203.07083](https://arxiv.org/abs/2203.07083). -->
 </div>
 </div>
 
