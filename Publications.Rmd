@@ -29,22 +29,24 @@ Meta gene set enrichment analyses link miR-137-regulated pathways with schizophr
 
 ### Secondary Author Publications
 
-1. The Genomic Data Science Community Network (2022). Diversifying the genomic data science research community. Genome Res. 32, 1231–1241. PMID:[35858750](https://pubmed.ncbi.nlm.nih.gov/35858750/) 
+1. Savonen, C., **Wright, C.**, Hoffman, A.M., Muschelli, J., Cox, K., Tan, F.J., and Leek, J.T., (2022). Open-source Tools for Training Resources – OTTR. I Journal of Statistics and Data Science Education,[doi: 10.1080/26939169.2022.2118646](https://doi.org/10.1080/26939169.2022.2118646)\
 
-2.	Maphis N.M., Jiang S., Binder J., **Wright C.**, Gopalan B., Lamb B.T., and Bhasker K. (2017) Whole genome expression analysis in a mouse model of tauopathy identifies MECP2 as a possible regulator of tau pathology. Frontiers in molecular neuroscience. 10:69. PMID: [28367114](https://www.ncbi.nlm.nih.gov/pubmed/?term=28367114)
+2. The Genomic Data Science Community Network (2022). Diversifying the genomic data science research community. Genome Res. 32, 1231–1241. PMID:[35858750](https://pubmed.ncbi.nlm.nih.gov/35858750/) 
 
-3.	Patel V.S., Kelly S., **Wright C.**, Gupta C. N., Arias-Vasquez A., Perrone-Bizzozero N., Ehrlich S., Wang L., Bustillo J.R., Morris D., Corvin A., Cannon D.M., McDonald C., Donohoe G., Calhoun V.D., and Turner J.A. (2015) MIR137HG risk variant rs1625579 genotype is related to corpus callosum volume in schizophrenia, Neuroscience Letters. 602: 44. PMID: [26123324](https://www.ncbi.nlm.nih.gov/pubmed/?term=26123324)
+3.	Maphis N.M., Jiang S., Binder J., **Wright C.**, Gopalan B., Lamb B.T., and Bhasker K. (2017) Whole genome expression analysis in a mouse model of tauopathy identifies MECP2 as a possible regulator of tau pathology. Frontiers in molecular neuroscience. 10:69. PMID: [28367114](https://www.ncbi.nlm.nih.gov/pubmed/?term=28367114)
 
-4.	Gupta C.N., Chen J., Liu J., Damaraju E., **Wright C.**, Perrone-Bizzozero N.I., Pearlson G., Luo L., Michael A.M., Turner J.A., and Calhoun V.D. (2015) Genetic markers of white matter integrity in schizophrenia revealed by parallel ICA. Front. Hum. Neurosci. 9:100. PMID: [25784871](https://www.ncbi.nlm.nih.gov/pubmed/?term=25784871) 
+4.	Patel V.S., Kelly S., **Wright C.**, Gupta C. N., Arias-Vasquez A., Perrone-Bizzozero N., Ehrlich S., Wang L., Bustillo J.R., Morris D., Corvin A., Cannon D.M., McDonald C., Donohoe G., Calhoun V.D., and Turner J.A. (2015) MIR137HG risk variant rs1625579 genotype is related to corpus callosum volume in schizophrenia, Neuroscience Letters. 602: 44. PMID: [26123324](https://www.ncbi.nlm.nih.gov/pubmed/?term=26123324)
 
-5.	Hass J., Walton E., **Wright C.**, Beyer A., Scholz M., Turner J., Liu J., Smolka M.N., Roessner V., Sponheim S.R., Gollub R.L., Calhoun V.D., and Ehrlich S. (2015) Associations between DNA methylation and schizophrenia-related intermediate phenotypes - a gene set enrichment analysis. Prog Neuropsychopharmacol Biol Psychiatry. 59:31. PMID: [25598502](https://www.ncbi.nlm.nih.gov/pubmed/?term=25598502) 
+5.	Gupta C.N., Chen J., Liu J., Damaraju E., **Wright C.**, Perrone-Bizzozero N.I., Pearlson G., Luo L., Michael A.M., Turner J.A., and Calhoun V.D. (2015) Genetic markers of white matter integrity in schizophrenia revealed by parallel ICA. Front. Hum. Neurosci. 9:100. PMID: [25784871](https://www.ncbi.nlm.nih.gov/pubmed/?term=25784871) 
 
-6.	Savage D. D., Rosenberg M. J., Wolff C. R., Akers K. G., El-Emawy A., Staples M. C., Varaschin R. K., **Wright C.**, Seidel J. L., and Caldwell K. K. (2010). Effects of a novel cognition-enhancing agent on fetal ethanol-induced learning deficits. Alcoholism: Clinical and Experimental Research. 34: 1793. PMID: [20626729](https://www.ncbi.nlm.nih.gov/pubmed/?term=20626729) 
+6.	Hass J., Walton E., **Wright C.**, Beyer A., Scholz M., Turner J., Liu J., Smolka M.N., Roessner V., Sponheim S.R., Gollub R.L., Calhoun V.D., and Ehrlich S. (2015) Associations between DNA methylation and schizophrenia-related intermediate phenotypes - a gene set enrichment analysis. Prog Neuropsychopharmacol Biol Psychiatry. 59:31. PMID: [25598502](https://www.ncbi.nlm.nih.gov/pubmed/?term=25598502) 
+
+7.	Savage D. D., Rosenberg M. J., Wolff C. R., Akers K. G., El-Emawy A., Staples M. C., Varaschin R. K., **Wright C.**, Seidel J. L., and Caldwell K. K. (2010). Effects of a novel cognition-enhancing agent on fetal ethanol-induced learning deficits. Alcoholism: Clinical and Experimental Research. 34: 1793. PMID: [20626729](https://www.ncbi.nlm.nih.gov/pubmed/?term=20626729) 
 
 
-### Preprints
-1. Savonen, C., **Wright, C.**, Hoffman, A.M., Muschelli, J., Cox, K., Tan, F.J., and Leek, J.T., (2022).
-Open-source Tools for Training Resources – OTTR. [arXiv:2203.07083](https://arxiv.org/abs/2203.07083).
+<!-- ### Preprints -->
+<!-- 1. Savonen, C., **Wright, C.**, Hoffman, A.M., Muschelli, J., Cox, K., Tan, F.J., and Leek, J.T., (2022). -->
+<!-- Open-source Tools for Training Resources – OTTR. [arXiv:2203.07083](https://arxiv.org/abs/2203.07083). -->
 
 
 
