@@ -13,6 +13,8 @@
 
 ### Talks
 
+2022 [Informatics Technology for Cancer Research Annual Meeting 2022](https://itcr2022.org/), St. Louis, Missouri, talk titled [" ITCR Training Network (ITN) Overview](https://docs.google.com/presentation/d/1p-Mmo6mhyZVjS6ta2uZ9xqBYSPETeyiXJIC3QFkwMT4/edit?usp=sharing)
+
 2022 [R Medicine](https://events.linuxfoundation.org/r-medicine/), location virtual, invited talk titled ["Leveraging R for Cancer Informatics Training"](https://docs.google.com/presentation/d/15_J0CFpA22lRk2P_33CtXiYGU7tZf1fkf_OHhRHvgXc/edit?usp=sharing)
 
 2022 [International Chinese Statistical Association (ICSA)](https://www.icsa.org/), Gainesville, Florida, invited talk titled ["Case studies to community engagement: Bringing hands-on data science experiences to the classroom"](https://docs.google.com/presentation/d/1rN1oNZ-On4vuPanktF-HVQcS_Fr3mSqKu6pcxfwsgJI/edit?usp=sharing)
