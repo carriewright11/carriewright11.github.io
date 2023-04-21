@@ -13,7 +13,7 @@
 
 <title>Publications.knit</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -143,11 +143,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -176,8 +180,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -185,16 +189,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -354,14 +351,14 @@ href="https://www.ncbi.nlm.nih.gov/pubmed/?term=23637704">23637704</a></p></li>
 <li><p>Savonen, C., <strong>Wright, C.</strong>, Hoffman, A.M.,
 Muschelli, J., Cox, K., Tan, F.J., and Leek, J.T., (2022). Open-source
 Tools for Training Resources – OTTR. I Journal of Statistics and Data
-Science Education,<a
+Science Education, <a
 href="https://doi.org/10.1080/26939169.2022.2118646">doi:
 10.1080/26939169.2022.2118646</a><br />
 </p></li>
 <li><p>The Genomic Data Science Community Network (2022). Diversifying
 the genomic data science research community. Genome Res. 32, 1231–1241.
-<a href="PMID:%5B35858750%5D(https://pubmed.ncbi.nlm.nih.gov/35858750/"
-class="uri">PMID:[35858750](https://pubmed.ncbi.nlm.nih.gov/35858750/</a>)</p></li>
+PMID: <a
+href="https://pubmed.ncbi.nlm.nih.gov/35858750/">35858750</a></p></li>
 <li><p>Maphis N.M., Jiang S., Binder J., <strong>Wright C.</strong>,
 Gopalan B., Lamb B.T., and Bhasker K. (2017) Whole genome expression
 analysis in a mouse model of tauopathy identifies MECP2 as a possible
@@ -395,9 +392,18 @@ agent on fetal ethanol-induced learning deficits. Alcoholism: Clinical
 and Experimental Research. 34: 1793. PMID: <a
 href="https://www.ncbi.nlm.nih.gov/pubmed/?term=20626729">20626729</a></p></li>
 </ol>
-<!-- ### Preprints -->
+</div>
+<div id="preprints" class="section level3">
+<h3>Preprints</h3>
 <!-- 1. Savonen, C., **Wright, C.**, Hoffman, A.M., Muschelli, J., Cox, K., Tan, F.J., and Leek, J.T., (2022). -->
 <!-- Open-source Tools for Training Resources – OTTR. [arXiv:2203.07083](https://arxiv.org/abs/2203.07083). -->
+<ol style="list-style-type: decimal">
+<li><strong>Wright, C.</strong>, Meng Q., Breshock, M.R., Atta, L.,
+Taub, M.A., Jager, L.R., Muschelli, J., and Hicks, S.C. Open Case
+Studies: Statistics and Data Science Education through Real-World
+Applications (2023). <a
+href="https://arxiv.org/abs/2301.05298">arXiv.2301.05298</a></li>
+</ol>
 </div>
 </div>
 
