@@ -13,7 +13,7 @@
 
 <title>presentations.knit</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -143,11 +143,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -176,8 +180,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -185,16 +189,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -306,11 +303,16 @@ $(document).ready(function () {
 <p> </p>
 <div id="talks" class="section level3">
 <h3>Talks</h3>
+<p>2023 <a href="https://www.biostat.washington.edu/">University of
+Washington Department of Biostatistics Seminar</a>, Virtual, talk titled
+<a
+href="https://docs.google.com/presentation/d/1ydwawEhVnJoIqr4wejmxEcwU5O2ba7SvQq2B_WlR628/edit?usp=sharing">“Reimagining
+Research Training Through Holistic Data Science Education”</a></p>
 <p>2022 <a href="https://itcr2022.org/">Informatics Technology for
 Cancer Research Annual Meeting 2022</a>, St. Louis, Missouri, talk
 titled <a
-href="https://docs.google.com/presentation/d/1p-Mmo6mhyZVjS6ta2uZ9xqBYSPETeyiXJIC3QFkwMT4/edit?usp=sharing">”
-ITCR Training Network (ITN) Overview</a></p>
+href="https://docs.google.com/presentation/d/1p-Mmo6mhyZVjS6ta2uZ9xqBYSPETeyiXJIC3QFkwMT4/edit?usp=sharing">“ITCR
+Training Network (ITN) Overview”</a></p>
 <p>2022 <a href="https://events.linuxfoundation.org/r-medicine/">R
 Medicine</a>, location virtual, invited talk titled <a
 href="https://docs.google.com/presentation/d/15_J0CFpA22lRk2P_33CtXiYGU7tZf1fkf_OHhRHvgXc/edit?usp=sharing">“Leveraging

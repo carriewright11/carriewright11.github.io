@@ -13,7 +13,9 @@
 
 ### Talks
 
-2022 [Informatics Technology for Cancer Research Annual Meeting 2022](https://itcr2022.org/), St. Louis, Missouri, talk titled [" ITCR Training Network (ITN) Overview](https://docs.google.com/presentation/d/1p-Mmo6mhyZVjS6ta2uZ9xqBYSPETeyiXJIC3QFkwMT4/edit?usp=sharing)
+2023 [University of Washington Department of Biostatistics Seminar](https://www.biostat.washington.edu/), Virtual, talk titled ["Reimagining Research Training Through Holistic Data Science Education"](https://docs.google.com/presentation/d/1ydwawEhVnJoIqr4wejmxEcwU5O2ba7SvQq2B_WlR628/edit?usp=sharing)
+
+2022 [Informatics Technology for Cancer Research Annual Meeting 2022](https://itcr2022.org/), St. Louis, Missouri, talk titled ["ITCR Training Network (ITN) Overview"](https://docs.google.com/presentation/d/1p-Mmo6mhyZVjS6ta2uZ9xqBYSPETeyiXJIC3QFkwMT4/edit?usp=sharing)
 
 2022 [R Medicine](https://events.linuxfoundation.org/r-medicine/), location virtual, invited talk titled ["Leveraging R for Cancer Informatics Training"](https://docs.google.com/presentation/d/15_J0CFpA22lRk2P_33CtXiYGU7tZf1fkf_OHhRHvgXc/edit?usp=sharing)
 
