@@ -50,4 +50,6 @@ Meta gene set enrichment analyses link miR-137-regulated pathways with schizophr
 
 1. **Wright, C.**, Meng Q., Breshock, M.R., Atta, L., Taub, M.A.,  Jager, L.R., Muschelli, J., and Hicks, S.C. Open Case Studies: Statistics and Data Science Education through Real-World Applications (2023). [arXiv.2301.05298](https://arxiv.org/abs/2301.05298)
 
+2. Savonen, C., **Wright, C.**, Hoffman, A.M., Humphries, E.M., Cox, K.E.L., Tan, F.J., and Leek, J.T. Motivation, inclusivity, and realism should drive data science education (2023) [arXiv:2305.06213](https://arxiv.org/abs/2305.06213)
+
 
