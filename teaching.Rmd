@@ -8,8 +8,12 @@
 
 ### Instruction
 
+2023 **Workshop Instructor** [Great Lakes Bioinformatics Conference 2023](https://www.iscb.org/glbio2023) - [Using reproducibility techniques and version control to improve daily bioinformatics research practices and publish scientific websites with R](https://docs.google.com/presentation/d/1bxu8Tn9dDQgybjPj17V9z4IwNmFwPW_CEqsq82w-mlY/edit?usp=sharing), McGill University, Montreal, Quebec, Canada (7 learners)
+
 2022 **Course Co-developer and Co-instructor** - <span style="background-color: #FFFF00">rated as excellent - not yet published</span>
 [140.604.73 – Introduction to R for Public Health Researchers](https://github.com/jhudsl/intro_to_r), Virtual, Johns Hopkins Bloomberg School of Public Health Winter Institutes Term (24 students)
+
+2022 **Workshop Instructor** [ITCR Annual Meeting 2022](https://itcr2022.org/) - [ITCR Annual Meeting Trainee Workshop](https://docs.google.com/presentation/d/1miG53JFj9JzQoEXFz8_QRQSQCmWtcvH8ibGykg-CYGM/edit?usp=sharing), Washington University School of Medicine in St Louis, Missouri (15 learners)
 
 2022 **Short Course Co-instructor**
 [University of Washington Biostatistics Summer Institutes](https://si.biostat.washington.edu/), Virtual, ["Data Wrangling"](https://github.com/SISBID/Data-Wrangling) (49 students)
@@ -38,7 +42,7 @@
 “Research and Data Science”
 Designed and taught a workshop about  Research and R programming to South Korean high school students in Baltimore (approx 12 students)
 
-2019 **Course Instructor**
+2019 **Course Developer and Course Instructor**
 [Johns Hopkins Center for Talented Youth](https://cty.jhu.edu/), Baltimore, MD
 “Introduction to Biomedical Sciences”
 Designed and taught a full time two week course about Biomedical Sciences to high school students in Abu Dhabi and Ajman in the United Arab Emirates (approx 15 students each) 
