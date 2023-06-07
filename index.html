@@ -13,7 +13,7 @@
 
 <title>index.knit</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -143,11 +143,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -176,8 +180,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -185,16 +189,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -304,16 +301,22 @@ $(document).ready(function () {
 <div id="about" class="section level2 tabset tabset-fade">
 <h2 class="tabset tabset-fade">About</h2>
 <p> </p>
-<p>Carrie Wright is a Senior Staff Scientist at the Fred Hutchinson
-Cancer Research Center. Dr. Wright’s work is focused on innovating ways
-to make data science and computational biology more accessible. She is a
-member of the <a href="https://opencasestudies.github.io/">Open Case
-Studies</a> team, the <a href="https://www.gdscn.org/home">Genomic Data
-Science Community Network (GDSCN)</a>, and the <a
+<p>Carrie Wright is a Senior Staff Scientist at the <a
+href="https://www.fredhutch.org/">Fred Hutchinson Cancer Research
+Center</a> and an affiliated faculty member at the <a
+href="https://www.jhsph.edu/">Johns Hopkins Bloomberg School of Public
+Health (JHSPH)</a>.</p>
+<p>Dr. Wright’s work is focused on innovating ways to make data science
+and computational biology more accessible. She is passionate about
+helping scientists, researchers, nonprofit organizations, and others
+utilize these skills to advance science, medicine, and social justice.
+She is a member of the <a href="https://opencasestudies.github.io/">Open
+Case Studies</a> team, the <a href="https://www.gdscn.org/home">Genomic
+Data Science Community Network (GDSCN)</a>, and the <a
 href="https://www.itcrtraining.org/">Informatics Technology for Cancer
-Research (ITCR) Training Network (ITN)</a>. She also currently leads the
-<a href="https://www.itcrtraining.org/tow">ITCR Training and Outreach
-Working Group</a>.</p>
+Research (ITCR) Training Network (ITN)</a>. She also currently serves as
+chair of the <a href="https://www.itcrtraining.org/open">ITCR OPEN
+Group</a>.</p>
 <p>Previously, Dr. Wright was an Assistant Scientist in the Department
 of <a
 href="https://www.jhsph.edu/departments/biostatistics/">Biostatistics</a>

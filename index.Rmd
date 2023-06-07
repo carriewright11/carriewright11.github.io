@@ -11,7 +11,9 @@
 
 
 
-Carrie Wright is a Senior Staff Scientist at the Fred Hutchinson Cancer Research Center. Dr. Wright's work is focused on innovating ways to make data science and computational biology more accessible. She is a member of the [Open Case Studies](https://opencasestudies.github.io/) team, the [Genomic Data Science Community Network (GDSCN)](https://www.gdscn.org/home), and the [Informatics Technology for Cancer Research (ITCR) Training Network (ITN)](https://www.itcrtraining.org/). She also currently leads the [ITCR Training and Outreach Working Group](https://www.itcrtraining.org/tow).  
+Carrie Wright is a Senior Staff Scientist at the [Fred Hutchinson Cancer Research Center](https://www.fredhutch.org/) and an affiliated faculty member at the [Johns Hopkins Bloomberg School of Public Health (JHSPH)](https://www.jhsph.edu/).
+
+Dr. Wright's work is focused on innovating ways to make data science and computational biology more accessible. She is passionate about helping scientists, researchers, nonprofit organizations, and others utilize these skills to advance science, medicine, and social justice. She is a member of the [Open Case Studies](https://opencasestudies.github.io/) team, the [Genomic Data Science Community Network (GDSCN)](https://www.gdscn.org/home), and the [Informatics Technology for Cancer Research (ITCR) Training Network (ITN)](https://www.itcrtraining.org/). She also currently serves as chair of the [ITCR OPEN Group](https://www.itcrtraining.org/open).  
 
 Previously, Dr. Wright was an Assistant Scientist in the Department of [Biostatistics](https://www.jhsph.edu/departments/biostatistics/) at the [Johns Hopkins Bloomberg School of Public Health (JHSPH)](https://www.jhsph.edu/) and a member of the [Johns Hopkins Data Science Lab (DaSL)](https://jhudatascience.org/).
 
@@ -25,7 +27,6 @@ See Dr. Wright's CV on [overleaf](https://www.overleaf.com/read/jkhxnxcyctjn).
 &nbsp;
 
 You can find Carrie on GitHub at [carriewright11](https://github.com/carriewright11/).
-
 
 
 &nbsp;<center>
