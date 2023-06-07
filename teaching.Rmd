@@ -107,7 +107,7 @@ https://github.com/opencasestudies/ocs-bp-RTC-wrangling
 Wright, Carrie and Ontiveros, Michael and Jager, Leah and Taub, Margaret and Hicks, Stephanie.(2020).    
 https://github.com//opencasestudies/ocs-bp-RTC-analysis    
 
-<p style="text-align:center;"> <img src="https://github.com/opencasestudies/ocs-bp-RTC-analysis/blob/master/img/mainplot.png?raw=true" width="500" /></p> 
+<p style="text-align:center;"> <img src="https://github.com/opencasestudies/ocs-bp-RTC-wrangling/blob/master/img/mainplot.png?raw=true" width="500" /></p> 
 
 7) [Disparities in Youth Disconnection](https://www.opencasestudies.org/ocs-bp-youth-disconnection)   
 Wright, Carrie and Ontiveros, Michael and Jager, Leah and Taub, Margaret and Hicks, Stephanie. (2020).   
