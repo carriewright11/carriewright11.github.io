@@ -52,4 +52,6 @@ Meta gene set enrichment analyses link miR-137-regulated pathways with schizophr
 
 2. Savonen, C., **Wright, C.**, Hoffman, A.M., Humphries, E.M., Cox, K.E.L., Tan, F.J., and Leek, J.T. Motivation, inclusivity, and realism should drive data science education (2023). [arXiv:2305.06213](https://arxiv.org/abs/2305.06213)
 
+3. Afiaz, A., Ivanov, A., Chamberlin, J., Hanauer D., Savonen, C., Goldman, M.J., Morgan, M., Reich, M., Getka, A., Holmes, A., Pati, S., Knight, D., Boutros, P.C., Bakas, S., Caporaso, J.G., Del Fiol, G., Hochheiser, H., Haas, B., Schloss, P.D., Eddy, J.A., Albrecht, J., Fedorov, A., Waldron, L., Hoffman, A.M., Bradshaw, R.L., Leek, J.T., **Wright, C.** Evaluation of software impact designed for biomedical research: Are we measuring what’s meaningful? (2023). [arXiv:2306.03255](https://arxiv.org/abs/2306.03255)
+
 
