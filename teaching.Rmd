@@ -55,6 +55,8 @@ Taught a variety of science courses to children age 3-12
 
 #### **Workshops**
 
+2023 **Workshop Co-developer and Co-instructor** [SeattleStatSummer Intro to R Workshop](https://hutchdatascience.org/SeattleStatSummer_R/), [Fred Hutchinson Cancer Center SeattleStatSummer Program](https://www.fredhutch.org/en/education-training/high-school-undergraduate-students/seattlestatsummer.html), Virtual, Seattle, Washington (11 students)
+
 2023 **Workshop Developer and Instructor** [Fred Hutchinson Cancer Center, ITCR workshops](https://www.itcrtraining.org/events) [Multidisciplinary teams for Cancer Informatics](https://docs.google.com/presentation/d/19Z_yZ1HPsGewR2EgykGr5skpjI8vQvM5anc7-wdsTug/edit?usp=sharing), Seattle, Washington  (approx 15 learners)
 
 2023 **Workshop Developer and Instructor** [Fred Hutchinson Cancer Center ITCR workshops](https://www.itcrtraining.org/events) [Computing for Cancer Informatics](https://docs.google.com/presentation/d/1lq4NsjfMAuoSAONNXw5JcrP4j5P1z_2sNJJnqXDkxdQ/edit?usp=sharing), Seattle, Washington (approx 15 learners)
