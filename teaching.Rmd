@@ -201,6 +201,48 @@ https://github.com/opencasestudies/ocs-bp-diet
 
 ### Online Courses
 
+
+
+2023 - [**AI for Efficient Programming**](https://hutchdatascience.org/AI_for_Efficient_Programming/) on [Coursera](https://www.coursera.org/learn/ai-for-software-development) and [Leanpub](https://leanpub.com/courses/fredhutch/ai_for_software)
+
+```{r, echo = FALSE, fig.align='center', out.width="60%"}
+knitr::include_graphics("images/ai_eff_what.png")
+```
+
+```{r, echo = FALSE, fig.align='center', out.width="50%"}
+knitr::include_graphics("images/ai_eff_who.png")
+```
+
+2023 - [**Ethical Data Handling**](https://hutchdatascience.org/Ethical_Data_Handling_for_Cancer_Research/) on [Leanpub](https://leanpub.com/courses/fredhutch/ethical_data_handling/)
+
+```{r, echo = FALSE, fig.align='center', out.width="60%"}
+knitr::include_graphics("images/ethical_what.png")
+```
+
+```{r, echo = FALSE, fig.align='center', out.width="50%"}
+knitr::include_graphics("images/ethical_who.png")
+```
+
+2023 - [**Introduction to LaTeX and Overleaf for Scientific Articles**](https://hutchdatascience.org/Overleaf_and_LaTeX_for_Scientific_Articles) on [Leanpub](https://leanpub.com/courses/fredhutch/overleaf_intro)
+
+```{r, echo = FALSE, fig.align='center', out.width="60%"}
+knitr::include_graphics("images/latex_what.png")
+```
+
+```{r, echo = FALSE, fig.align='center', out.width="50%"}
+knitr::include_graphics("images/latex_who.png")
+```
+
+2023 - [**NIH Data Sharing**](https://hutchdatascience.org/NIH_Data_Sharing/) on [Leanpub](https://leanpub.com/courses/fredhutch/nih_data_sharing)
+
+```{r, echo = FALSE, fig.align='center', out.width="60%"}
+knitr::include_graphics("images/nih_what.png")
+```
+
+```{r, echo = FALSE, fig.align='center', out.width="50%"}
+knitr::include_graphics("images/nih_who.png")
+```
+
 2022 - [**Computing for Cancer Informatics**](https://jhudatascience.org/Computing_for_Cancer_Informatics/) on [Coursera](https://www.coursera.org/learn/computing-for-cancer-informatics/) and [Leanpub](https://leanpub.com/universities/courses/jhu/cancer-informatics-computing)
 
 ```{r, echo = FALSE, fig.align='center'}
@@ -240,6 +282,8 @@ Including:
 
 
 #### **Research Advisees**
+
+- [Jainaba, Jawara](https://www.linkedin.com/in/jainaba-jawara570/). Undergraduate Student Intern. University of Washington, Seattle, WA (2023). *Co-supervised with Ava Hoffman on a research project and poster as part of the [SeattleStatSummer](https://www.fredhutch.org/en/education-training/high-school-undergraduate-students/seattlestatsummer.html) program at the [Fred Hutchinson Cancer Center](https://www.fredhutch.org/).*
 
 - [Afiaz, Awan](https://www.biostat.washington.edu/people/awan-afiaz). Graduate Research Assistant. Doctorate of Biostatistics. University of Washington, Seattle, WA (2023). (Served as co-supervisor with Jeff Leek.)
 
