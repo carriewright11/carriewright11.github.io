@@ -8,15 +8,16 @@
 
 ### Instruction
 
-2023 **Course Co-developer and Co-instructor** -  Not yet rated
-[140.604.79 – Introduction to R for Public Health Researchers](https://github.com/jhudsl/intro_to_r), Virtual, Johns Hopkins Bloomberg School of Public Health Summer Institutes Term (38 students)
+#### **Courses**
 
-2023 **Workshop Instructor** [Great Lakes Bioinformatics Conference 2023](https://www.iscb.org/glbio2023) - [Using reproducibility techniques and version control to improve daily bioinformatics research practices and publish scientific websites with R](https://docs.google.com/presentation/d/1bxu8Tn9dDQgybjPj17V9z4IwNmFwPW_CEqsq82w-mlY/edit?usp=sharing), McGill University, Montreal, Quebec, Canada (7 learners)
+2023 **Course Co-creator & Co-instructor** - not rated
+[PH.140.840 – Baltimore Community Data Science](https://jhudatascience.org/Baltimore_Community_Course/), Virtual, Johns Hopkins Bloomberg School of Public Health Summer Institutes Term (11 students)
+
+2023 **Course Co-developer and Co-instructor** -  <span style="background-color: #FFFF00">rated as [excellent](https://publichealth.jhu.edu/offices-and-services/office-of-academic-affairs/faculty-recognition/excellence-in-teaching#Summer%20Institutes) by students</span>
+[140.604.79 – Introduction to R for Public Health Researchers](https://github.com/jhudsl/intro_to_r), Virtual, Johns Hopkins Bloomberg School of Public Health Summer Institutes Term (38 students)
 
 2023 **Course Co-developer and Co-instructor** - <span style="background-color: #FFFF00">rated as [excellent](https://publichealth.jhu.edu/offices-and-services/office-of-academic-affairs/faculty-recognition/excellence-in-teaching#Winter%20Institute) by students</span>
 [140.604.73 – Introduction to R for Public Health Researchers](https://github.com/jhudsl/intro_to_r), Virtual, Johns Hopkins Bloomberg School of Public Health Winter Institutes Term (24 students)
-
-2022 **Workshop Instructor** [ITCR Annual Meeting 2022](https://itcr2022.org/) - [ITCR Annual Meeting Trainee Workshop](https://docs.google.com/presentation/d/1miG53JFj9JzQoEXFz8_QRQSQCmWtcvH8ibGykg-CYGM/edit?usp=sharing), Washington University School of Medicine in St Louis, Missouri (15 learners)
 
 2022 **Short Course Co-instructor**
 [University of Washington Biostatistics Summer Institutes](https://si.biostat.washington.edu/), Virtual, ["Data Wrangling"](https://github.com/SISBID/Data-Wrangling) (49 students)
@@ -36,19 +37,43 @@
 2021 **Course Co-developer and Co-instructor**
 [140.604.11 – Introduction to R for Public Health Researchers](https://github.com/jhudsl/intro_to_r), Virtual, Johns Hopkins Bloomberg School of Public Health Summer Institutes Term (34 students)
 
+2019 **Course Developer and Course Instructor**
+[Johns Hopkins Center for Talented Youth](https://cty.jhu.edu/), Baltimore, MD
+“Introduction to Biomedical Sciences”
+Designed and taught a full time two week course about Biomedical Sciences to high school students in  Ajman in the United Arab Emirates including a significant lab portion of the course (approx 15 students) 
+
+2019 **Course Developer and Course Instructor**
+[Johns Hopkins Center for Talented Youth](https://cty.jhu.edu/), Baltimore, MD
+“Introduction to Biomedical Sciences”
+Designed and taught a full time two week course about Biomedical Sciences to high school students in Abu Dhabi in the United Arab Emirates including a significant lab portion of the course (approx 15 students) 
+
+2005 **Class Instructor**
+[Explora Science Center](https://www.explora.us/), Albuquerque, NM
+Taught a variety of science courses to children age 3-12
+
+#### Workshops
+
+2023 **Workshop Instructor** [Great Lakes Bioinformatics Conference 2023](https://www.iscb.org/glbio2023) - [Using reproducibility techniques and version control to improve daily bioinformatics research practices and publish scientific websites with R](https://docs.google.com/presentation/d/1bxu8Tn9dDQgybjPj17V9z4IwNmFwPW_CEqsq82w-mlY/edit?usp=sharing), McGill University, Montreal, Quebec, Canada (7 learners)
+
+
+2022 **Workshop Instructor** [ITCR Annual Meeting 2022](https://itcr2022.org/) - [ITCR Annual Meeting Trainee Workshop](https://docs.google.com/presentation/d/1miG53JFj9JzQoEXFz8_QRQSQCmWtcvH8ibGykg-CYGM/edit?usp=sharing), Washington University School of Medicine in St Louis, Missouri (15 learners)
+
 2020 **Workshop Instructor**
 [R-Ladies Baltimore](https://www.meetup.com/rladies-baltimore/events/263289042/), Virtual
 ["Wrangling a pdf with stringr"](https://carriewright11.github.io/stringr_RLadies/) (approx 40 attendees)
+
 
 2020 **Workshop Instructor**
 [Johns Hopkins Center for Talented Youth](https://cty.jhu.edu/), Baltimore, MD
 “Research and Data Science”
 Designed and taught a workshop about  Research and R programming to South Korean high school students in Baltimore (approx 12 students)
 
-2019 **Course Developer and Course Instructor**
-[Johns Hopkins Center for Talented Youth](https://cty.jhu.edu/), Baltimore, MD
-“Introduction to Biomedical Sciences”
-Designed and taught a full time two week course about Biomedical Sciences to high school students in Abu Dhabi and Ajman in the United Arab Emirates (approx 15 students each) 
+2017 **Workshop Instructor**
+[Baltimore Underground Science Space](http://www.bugssonline.org/), Baltimore, MD
+“Adventures in BIG DATA Analysis"
+Designed and taught a course on data analysis using R to approximately 20 students
+
+#### Assisting and Tutoring
 
 2018 **Teaching Assistant**
 [Baltimore Underground Science Space](http://www.bugssonline.org/), Baltimore, MD
@@ -60,11 +85,6 @@ Assisted with R programming analysis one-on-one with students
 “Go with your guts! (And the billions of bacteria in them): A personal microbiome course”
 Assisted with R programming analysis one-on-one with students
 
-2017 **Workshop Instructor**
-[Baltimore Underground Science Space](http://www.bugssonline.org/), Baltimore, MD
-“Adventures in BIG DATA Analysis"
-Designed and taught a course on data analysis using R to approximately 20 students
-
 2013 **Teaching Assistant**
 [Department of Neurosciences, University of New Mexico](https://hsc.unm.edu/medicine/departments/neurosciences/), Albuquerque, NM
 “Introduction to Neurobiology”, Biomed 509 taught by Donald Partridge, Ph.D.
@@ -75,9 +95,6 @@ Assisted with grading, class organization, and discussions
 “Organic Chemistry”, Chem 301 taught by Lisa Whalen, Ph.D.
 Tutored two undergraduate students
 
-2005 **Class Instructor**
-[Explora Science Center](https://www.explora.us/), Albuquerque, NM
-Taught a variety of science courses to children age 3-12
 
 ### Case Studies
 1) [Exploring global patterns of obesity across rural and urban regions (Version v1.0.0).](https://www.opencasestudies.org/ocs-bp-rural-and-urban-obesity/)   
