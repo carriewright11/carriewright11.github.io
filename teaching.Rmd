@@ -8,18 +8,19 @@
 
 ### Instruction
 
-2023 **Course Co-developer and Co-instructor** -  Not yet rated
-[140.604.79 – Introduction to R for Public Health Researchers](https://github.com/jhudsl/intro_to_r), Virtual, Johns Hopkins Bloomberg School of Public Health Summer Institutes Term (38 students)
+#### **Courses**
 
-2023 **Workshop Instructor** [Great Lakes Bioinformatics Conference 2023](https://www.iscb.org/glbio2023) - [Using reproducibility techniques and version control to improve daily bioinformatics research practices and publish scientific websites with R](https://docs.google.com/presentation/d/1bxu8Tn9dDQgybjPj17V9z4IwNmFwPW_CEqsq82w-mlY/edit?usp=sharing), McGill University, Montreal, Quebec, Canada (7 learners)
+2023 **Course Co-creator & Co-instructor** - not rated
+[PH.140.840 – Baltimore Community Data Science](https://jhudatascience.org/Baltimore_Community_Course/), Virtual, Johns Hopkins Bloomberg School of Public Health Summer Institutes Term (9 students)
+
+2023 **Course Co-developer and Co-instructor** -  <span style="background-color: #FFFF00">rated as [excellent](https://publichealth.jhu.edu/offices-and-services/office-of-academic-affairs/faculty-recognition/excellence-in-teaching#Summer%20Institutes) by students</span>
+[140.604.79 – Introduction to R for Public Health Researchers](https://github.com/jhudsl/intro_to_r), Virtual, Johns Hopkins Bloomberg School of Public Health Summer Institutes Term (38 students)
 
 2023 **Course Co-developer and Co-instructor** - <span style="background-color: #FFFF00">rated as [excellent](https://publichealth.jhu.edu/offices-and-services/office-of-academic-affairs/faculty-recognition/excellence-in-teaching#Winter%20Institute) by students</span>
 [140.604.73 – Introduction to R for Public Health Researchers](https://github.com/jhudsl/intro_to_r), Virtual, Johns Hopkins Bloomberg School of Public Health Winter Institutes Term (24 students)
 
-2022 **Workshop Instructor** [ITCR Annual Meeting 2022](https://itcr2022.org/) - [ITCR Annual Meeting Trainee Workshop](https://docs.google.com/presentation/d/1miG53JFj9JzQoEXFz8_QRQSQCmWtcvH8ibGykg-CYGM/edit?usp=sharing), Washington University School of Medicine in St Louis, Missouri (15 learners)
-
-2022 **Short Course Co-instructor**
-[University of Washington Biostatistics Summer Institutes](https://si.biostat.washington.edu/), Virtual, ["Data Wrangling"](https://github.com/SISBID/Data-Wrangling) (49 students)
+2022 **Short Course Co-Developer and Co-instructor**
+[University of Washington Biostatistics Summer Institutes](https://si.biostat.washington.edu/), ["Data Wrangling"](https://github.com/SISBID/Data-Wrangling), Virtual (49 students)
 
 2022 **Course Co-developer and Co-instructor** - <span style="background-color: #FFFF00">rated as [excellent](https://publichealth.jhu.edu/offices-and-services/office-of-academic-affairs/faculty-recognition/excellence-in-teaching#summer%20institutes) by students</span>
 [140.604.79 – Introduction to R for Public Health Researchers](https://github.com/jhudsl/intro_to_r), Virtual, Johns Hopkins Bloomberg School of Public Health Summer Institutes Term (41 students)
@@ -30,13 +31,45 @@
 2022 **Course Co-developer and Co-instructor** - <span style="background-color: #FFFF00">rated as [excellent](https://publichealth.jhu.edu/offices-and-services/office-of-academic-affairs/faculty-recognition/excellence-in-teaching/2021-2022) by students</span>
 [140.604.73 – Introduction to R for Public Health Researchers](https://github.com/jhudsl/intro_to_r), Virtual, Johns Hopkins Bloomberg School of Public Health Winter Institutes Term (32 students)
 
-2021 **Short Course Co-instructor**
-[University of Washington Biostatistics Summer Institutes](https://si.biostat.washington.edu/), Virtual, ["Data Wrangling"](https://github.com/SISBID/Data-Wrangling) (approx 45 students)
+2021 **Short Course Co-Developer and Co-instructor**
+[University of Washington Biostatistics Summer Institutes](https://si.biostat.washington.edu/), ["Data Wrangling"](https://github.com/SISBID/Data-Wrangling), Virtual (approx 45 students)
 
 2021 **Course Co-developer and Co-instructor**
 [140.604.11 – Introduction to R for Public Health Researchers](https://github.com/jhudsl/intro_to_r), Virtual, Johns Hopkins Bloomberg School of Public Health Summer Institutes Term (34 students)
 
-2020 **Workshop Instructor**
+2019 **Course Developer and Course Instructor**
+[Johns Hopkins Center for Talented Youth](https://cty.jhu.edu/), Baltimore, MD
+“Introduction to Biomedical Sciences”
+Designed and taught a full time two week course about Biomedical Sciences to high school students in  Ajman in the United Arab Emirates including a significant lab portion of the course (approx 15 students) 
+
+2019 **Course Developer and Course Instructor**
+[Johns Hopkins Center for Talented Youth](https://cty.jhu.edu/), Baltimore, MD
+“Introduction to Biomedical Sciences”
+Designed and taught a full time two week course about Biomedical Sciences to high school students in Abu Dhabi in the United Arab Emirates including a significant lab portion of the course (approx 15 students) 
+
+2005 **Class Instructor**
+[Explora Science Center](https://www.explora.us/), Albuquerque, NM
+Taught a variety of science courses to children age 3-12
+
+***
+
+#### **Workshops**
+
+2023 **Workshop Co-developer and Co-instructor** [SeattleStatSummer Intro to R Workshop](https://hutchdatascience.org/SeattleStatSummer_R/), [Fred Hutchinson Cancer Center SeattleStatSummer Program](https://www.fredhutch.org/en/education-training/high-school-undergraduate-students/seattlestatsummer.html), Virtual, Seattle, Washington (11 students)
+
+2023 **Workshop Developer and Instructor** [Fred Hutchinson Cancer Center, ITCR workshops](https://www.itcrtraining.org/events) [Multidisciplinary teams for Cancer Informatics](https://docs.google.com/presentation/d/19Z_yZ1HPsGewR2EgykGr5skpjI8vQvM5anc7-wdsTug/edit?usp=sharing), Seattle, Washington  (approx 15 learners)
+
+2023 **Workshop Developer and Instructor** [Fred Hutchinson Cancer Center ITCR workshops](https://www.itcrtraining.org/events) [Computing for Cancer Informatics](https://docs.google.com/presentation/d/1lq4NsjfMAuoSAONNXw5JcrP4j5P1z_2sNJJnqXDkxdQ/edit?usp=sharing), Seattle, Washington (approx 15 learners)
+
+2023 **Workshop Co-developer and Co-instructor** [ITCR Annual Meeting 2023](https://itcr2023.org/) - [ITCR Annual Meeting Trainee Workshop - GitHub 101](https://docs.google.com/presentation/d/1Mn5X3itSuAh9zuzy_1ibSWYEcyjrm897p8MF8TGbmHk/edit?usp=sharing), Seattle, Washington (approx 20 learners)
+
+2022 **Workshop Developer and Co-instructor** [Translational Genomics Research Institute (TGEN)](https://www.tgen.org/) - [Leveraging Resources for Your Bioinformatics Analyses (Including Galaxy Introduction)](https://docs.google.com/presentation/d/1GH7b7bLy0NwY3Z_zs5i-5LwkqMCXzh56CGoJgJta8tU/edit?usp=sharing), Phoenix, Arizona (6 learners)
+
+2023 **Workshop Co-developer and Co-instructor** [Great Lakes Bioinformatics Conference 2023](https://www.iscb.org/glbio2023) - [Using reproducibility techniques and version control to improve daily bioinformatics research practices and publish scientific websites with R](https://docs.google.com/presentation/d/1bxu8Tn9dDQgybjPj17V9z4IwNmFwPW_CEqsq82w-mlY/edit?usp=sharing), McGill University, Montreal, Quebec, Canada (7 learners)
+
+2022 **Workshop Developer and Instructor** [ITCR Annual Meeting 2022](https://itcr2022.org/) - [ITCR Annual Meeting Trainee Workshop](https://docs.google.com/presentation/d/1miG53JFj9JzQoEXFz8_QRQSQCmWtcvH8ibGykg-CYGM/edit?usp=sharing), Washington University School of Medicine in St Louis, Missouri (15 learners)
+
+2020 **Workshop Developer and Instructor**
 [R-Ladies Baltimore](https://www.meetup.com/rladies-baltimore/events/263289042/), Virtual
 ["Wrangling a pdf with stringr"](https://carriewright11.github.io/stringr_RLadies/) (approx 40 attendees)
 
@@ -45,10 +78,27 @@
 “Research and Data Science”
 Designed and taught a workshop about  Research and R programming to South Korean high school students in Baltimore (approx 12 students)
 
-2019 **Course Developer and Course Instructor**
-[Johns Hopkins Center for Talented Youth](https://cty.jhu.edu/), Baltimore, MD
-“Introduction to Biomedical Sciences”
-Designed and taught a full time two week course about Biomedical Sciences to high school students in Abu Dhabi and Ajman in the United Arab Emirates (approx 15 students each) 
+2017 **Workshop Instructor**
+[Baltimore Underground Science Space](http://www.bugssonline.org/), Baltimore, MD
+“Adventures in BIG DATA Analysis"
+Designed and taught a course on data analysis using R (approx 20 students)
+
+***
+
+#### **Citizen Science Events**
+
+2023 **Co-developer and Co-Instructor/Facilitator**
+["What’s informatics and how do we use it to fight cancer?"](https://docs.google.com/presentation/d/1Km_Cn2wI2Fpz-kmC5yaDWxhUVWYvxmYXupVKJdhtMf4/edit?usp=sharing), [ITCR event](https://www.itcrtraining.org/events) in partnership with the University of Illinois, Chicago, Project Brotherhood, and Morehouse School of Medicine. Atlanta, Georgia (approx 20 attendees)
+
+2022 **Co-developer and Co-Instructor/Facilitator** 
+["What’s informatics and how do we use it to fight cancer?"](https://docs.google.com/presentation/d/1Km_Cn2wI2Fpz-kmC5yaDWxhUVWYvxmYXupVKJdhtMf4/edit?usp=sharing), [ITCR event](https://www.itcrtraining.org/events) in partnership with the University of Illinois, Chicago and Project Brotherhood. Virtual (approx 20 attendees)
+
+***
+#### **Assisting and Tutoring**
+
+2023 **Workshop Assistant** [Fred Hutchinson Cancer Center ITCR Workshops](https://www.itcrtraining.org/events), [AI for Software and Analysis Development](https://docs.google.com/presentation/d/1Qz8aK0RcT-UVvIb6qy2X6f_ke9D_MGsiFXaD0TNcPc8/edit?usp=sharing) Seattle, Washington (approx 6 learners)
+
+2023 **Workshop Assistant** [Fred Hutchinson Cancer Center ITCR Workshops](https://www.itcrtraining.org/events), [Choosing Genomics Tools (including UCSC Xena Browser introduction)](https://docs.google.com/presentation/d/1-ujn_E4Svjc7uqocydKInN5t1X5FNMHcoWx17gPYaAE/edit?usp=sharing) Seattle, Washington (approx 15 learners)
 
 2018 **Teaching Assistant**
 [Baltimore Underground Science Space](http://www.bugssonline.org/), Baltimore, MD
@@ -60,11 +110,6 @@ Assisted with R programming analysis one-on-one with students
 “Go with your guts! (And the billions of bacteria in them): A personal microbiome course”
 Assisted with R programming analysis one-on-one with students
 
-2017 **Workshop Instructor**
-[Baltimore Underground Science Space](http://www.bugssonline.org/), Baltimore, MD
-“Adventures in BIG DATA Analysis"
-Designed and taught a course on data analysis using R to approximately 20 students
-
 2013 **Teaching Assistant**
 [Department of Neurosciences, University of New Mexico](https://hsc.unm.edu/medicine/departments/neurosciences/), Albuquerque, NM
 “Introduction to Neurobiology”, Biomed 509 taught by Donald Partridge, Ph.D.
@@ -75,9 +120,6 @@ Assisted with grading, class organization, and discussions
 “Organic Chemistry”, Chem 301 taught by Lisa Whalen, Ph.D.
 Tutored two undergraduate students
 
-2005 **Class Instructor**
-[Explora Science Center](https://www.explora.us/), Albuquerque, NM
-Taught a variety of science courses to children age 3-12
 
 ### Case Studies
 1) [Exploring global patterns of obesity across rural and urban regions (Version v1.0.0).](https://www.opencasestudies.org/ocs-bp-rural-and-urban-obesity/)   
@@ -159,6 +201,48 @@ https://github.com/opencasestudies/ocs-bp-diet
 
 ### Online Courses
 
+
+
+2023 - [**AI for Efficient Programming**](https://hutchdatascience.org/AI_for_Efficient_Programming/) on [Coursera](https://www.coursera.org/learn/ai-for-software-development) and [Leanpub](https://leanpub.com/courses/fredhutch/ai_for_software)
+
+```{r, echo = FALSE, fig.align='center', out.width="60%"}
+knitr::include_graphics("images/ai_eff_what.png")
+```
+
+```{r, echo = FALSE, fig.align='center', out.width="50%"}
+knitr::include_graphics("images/ai_eff_who.png")
+```
+
+2023 - [**Ethical Data Handling**](https://hutchdatascience.org/Ethical_Data_Handling_for_Cancer_Research/) on [Leanpub](https://leanpub.com/courses/fredhutch/ethical_data_handling/)
+
+```{r, echo = FALSE, fig.align='center', out.width="60%"}
+knitr::include_graphics("images/ethical_what.png")
+```
+
+```{r, echo = FALSE, fig.align='center', out.width="50%"}
+knitr::include_graphics("images/ethical_who.png")
+```
+
+2023 - [**Introduction to LaTeX and Overleaf for Scientific Articles**](https://hutchdatascience.org/Overleaf_and_LaTeX_for_Scientific_Articles) on [Leanpub](https://leanpub.com/courses/fredhutch/overleaf_intro)
+
+```{r, echo = FALSE, fig.align='center', out.width="60%"}
+knitr::include_graphics("images/latex_what.png")
+```
+
+```{r, echo = FALSE, fig.align='center', out.width="50%"}
+knitr::include_graphics("images/latex_who.png")
+```
+
+2023 - [**NIH Data Sharing**](https://hutchdatascience.org/NIH_Data_Sharing/) on [Leanpub](https://leanpub.com/courses/fredhutch/nih_data_sharing)
+
+```{r, echo = FALSE, fig.align='center', out.width="60%"}
+knitr::include_graphics("images/nih_what.png")
+```
+
+```{r, echo = FALSE, fig.align='center', out.width="50%"}
+knitr::include_graphics("images/nih_who.png")
+```
+
 2022 - [**Computing for Cancer Informatics**](https://jhudatascience.org/Computing_for_Cancer_Informatics/) on [Coursera](https://www.coursera.org/learn/computing-for-cancer-informatics/) and [Leanpub](https://leanpub.com/universities/courses/jhu/cancer-informatics-computing)
 
 ```{r, echo = FALSE, fig.align='center'}
@@ -198,6 +282,8 @@ Including:
 
 
 #### **Research Advisees**
+
+- [Jainaba, Jawara](https://www.linkedin.com/in/jainaba-jawara570/). Undergraduate Student Intern. University of Washington, Seattle, WA (2023). *Co-supervised with Ava Hoffman on a research project and poster as part of the [SeattleStatSummer](https://www.fredhutch.org/en/education-training/high-school-undergraduate-students/seattlestatsummer.html) program at the [Fred Hutchinson Cancer Center](https://www.fredhutch.org/).*
 
 - [Afiaz, Awan](https://www.biostat.washington.edu/people/awan-afiaz). Graduate Research Assistant. Doctorate of Biostatistics. University of Washington, Seattle, WA (2023). (Served as co-supervisor with Jeff Leek.)
 
