@@ -64,6 +64,7 @@ Meta gene set enrichment analyses link miR-137-regulated pathways with schizophr
 
 ### Other Media
 
-1. An article that mentions a course developed by C.Wright -[How biased data and algorithms can harm health](https://magazine.jhsph.edu/2022/how-biased-data-and-algorithms-can-harm-health])
+1. An article that mentions a course developed by C.Wright -[How biased data and algorithms can harm health](https://magazine.jhsph.edu/2022/how-biased-data-and-algorithms-can-harm-health)
 
+2. A post about the ITCR training network in the Cancer Data Science Pulse featured February 1, 2022 titled [NCI’s ITCR Training Network Puts Cancer Research Tools and Training at Your Fingertips](https://datascience.cancer.gov/news-events/blog/ncis-itcr-training-network-puts-cancer-research-tools-and-training-your-fingertips)
 
