@@ -13,6 +13,8 @@
 
 ### Talks
 
+2024 [Fred Hutchinson Cancer Center Nursing Grad Rounds](https://www.fredhutch.org/en/about/careers/nursing-at-fred-hutch.html), Virtual, talk titled ["A.I. – Today and Tomorrow in Healthcare"](https://docs.google.com/presentation/d/1bj_ZGqnYoCYGJ1g3sc0uWISH08vQC64Qgp6H0sJxdug/edit?usp=sharing) co-presented with Ava Hoffman and Midori Kondo
+
 2023 [University of Washington Department of Biostatistics Seminar](https://www.biostat.washington.edu/), Virtual, talk titled ["Reimagining Research Training Through Holistic Data Science Education"](https://docs.google.com/presentation/d/1ydwawEhVnJoIqr4wejmxEcwU5O2ba7SvQq2B_WlR628/edit?usp=sharing)
 
 2022 [Informatics Technology for Cancer Research Annual Meeting 2022](https://itcr2022.org/), St. Louis, Missouri, talk titled ["ITCR Training Network (ITN) Overview"](https://docs.google.com/presentation/d/1p-Mmo6mhyZVjS6ta2uZ9xqBYSPETeyiXJIC3QFkwMT4/edit?usp=sharing)
