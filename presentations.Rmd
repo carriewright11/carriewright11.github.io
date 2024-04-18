@@ -13,7 +13,7 @@
 
 ### Talks
 
-2024 [The University of Texas at Austin, Depeartment of Statistics and Data Sciences](https://stat.utexas.edu/), Austin, Texas, talk titled [Exploring initiatives to promote more comprehensive data science and statistical education](https://docs.google.com/presentation/d/1GpwNqoEYbDK2xN_u4WoOFJAB9mDBCuOhhXu0NzsBy18/edit?usp=sharing)
+2024 [The University of Texas at Austin, Department of Statistics and Data Sciences](https://stat.utexas.edu/), Austin, Texas, talk titled [Exploring initiatives to promote more comprehensive data science and statistical education](https://docs.google.com/presentation/d/1GpwNqoEYbDK2xN_u4WoOFJAB9mDBCuOhhXu0NzsBy18/edit?usp=sharing)
 
 2024 [Fred Hutchinson Cancer Center Nursing Grad Rounds](https://www.fredhutch.org/en/about/careers/nursing-at-fred-hutch.html), Virtual, talk titled ["A.I. – Today and Tomorrow in Healthcare"](https://docs.google.com/presentation/d/1bj_ZGqnYoCYGJ1g3sc0uWISH08vQC64Qgp6H0sJxdug/edit?usp=sharing) co-presented with Ava Hoffman and Midori Kondo
 
