@@ -10,7 +10,7 @@
 
 #### **Courses**
 
-2023 **Course Co-developer and Co-instructor** -  Rating not yet posted.
+2023 **Course Co-developer and Co-instructor** -  <span style="background-color: #FFFF00"> rated as [excellent](https://publichealth.jhu.edu/offices-and-services/office-of-academic-affairs/faculty-recognition/excellence-in-teaching).by students</span>
 [140.604.79 – Introduction to R for Public Health Researchers](https://github.com/jhudsl/intro_to_r), Virtual, Johns Hopkins Bloomberg School of Public Health Winter Institutes Term (28 students)
 
 
@@ -289,6 +289,8 @@ Including:
 
 
 #### **Research Advisees**
+
+- [Isaac, Kate](https://kweav.github.io/). Postdoctoral Fellow. Fred Hutchinson Cancer Center, Seattle, WA (2023 - Present). Co-supervised  with Jeff Leek 
 
 - [Jainaba, Jawara](https://www.linkedin.com/in/jainaba-jawara570/). Undergraduate Student Intern. University of Washington, Seattle, WA (2023). *Co-supervised with Ava Hoffman on a research project and poster as part of the [SeattleStatSummer](https://www.fredhutch.org/en/education-training/high-school-undergraduate-students/seattlestatsummer.html) program at the [Fred Hutchinson Cancer Center](https://www.fredhutch.org/).*
 
