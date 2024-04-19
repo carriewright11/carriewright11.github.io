@@ -208,7 +208,12 @@ https://github.com/opencasestudies/ocs-bp-diet
 
 ### Online Courses
 
+2024 -[**Avoiding AI Harm**](https://hutchdatascience.org/AI_for_Decision_Makers/introduction-to-avoiding-ai-harm.html) on [Coursera](https://www.coursera.org/learn/avoiding-ai-harm) as part of a larger collaborative course called [**AI for Decision Makers**](https://hutchdatascience.org/AI_for_Decision_Makers/) as a specialization also on [Coursera](https://www.coursera.org/learn/ai-for-decision-makers)
 
+```{r, echo = FALSE, fig.align='center', out.width="30%"}
+knitr::include_graphics("images/robotmaze.png")
+```
+<p> <small> Image created with https://poe.com/StableDiffusionXL </small> </p>
 
 2023 - [**AI for Efficient Programming**](https://hutchdatascience.org/AI_for_Efficient_Programming/) on [Coursera](https://www.coursera.org/learn/ai-for-software-development) and [Leanpub](https://leanpub.com/courses/fredhutch/ai_for_software)
 
