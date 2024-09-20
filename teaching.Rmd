@@ -10,6 +10,12 @@
 
 #### **Courses**
 
+2024 **Short Course Co-Developer and Co-instructor**
+[University of Washington Biostatistics Summer Institutes](https://si.biostat.washington.edu/), ["Data Wrangling"](https://github.com/SISBID/Data-Wrangling), Virtual (~40 students)
+
+2024 **Course Co-developer and Co-instructor** -  <span style="background-color: #FFFF00">rated as [excellent](https://publichealth.jhu.edu/offices-and-services/office-of-academic-affairs/faculty-recognition/excellence-in-teaching#Summer%20Institutes) by students</span>
+[140.604.73 – Introduction to R for Public Health Researchers](https://github.com/jhudsl/intro_to_r), Virtual, Johns Hopkins Bloomberg School of Public Health Summer Institutes Term (28 students)
+
 2023 **Course Co-developer and Co-instructor** -  <span style="background-color: #FFFF00"> rated as [excellent](https://publichealth.jhu.edu/offices-and-services/office-of-academic-affairs/faculty-recognition/excellence-in-teaching).by students</span>
 [140.604.79 – Introduction to R for Public Health Researchers](https://github.com/jhudsl/intro_to_r), Virtual, Johns Hopkins Bloomberg School of Public Health Winter Institutes Term (28 students)
 
@@ -62,13 +68,29 @@ Taught a variety of science courses to children age 3-12
 
 #### **Workshops**
 
+<!-- 2024 **Workshop Co-instructor** [ITCR Annual Meeting 2024](https://itcr2024.org/) - [ITCR Annual Meeting Trainee Workshop - Spatial Transcriptomics in collabroation with Oscar Ospina and Brook Fridely](https://hutchdatascience.org/ITN_Workshops_2024/), Indianapolis, Indiana (approx 20 learners) -->
+
+<!-- 2024 **Workshop Co-instructor** [ITCR Annual Meeting 2024](https://itcr2024.org/) - [ITCR Annual Meeting Trainee Workshop - Containers](https://hutchdatascience.org/ITN_Workshops_2024/), Indianapolis, Indiana (approx 20 learners) -->
+
+2024 **Workshop Co-developer and Co-instructor** [ITCR Annual Meeting 2024](https://itcr2024.org/) - [ITCR Annual Meeting Trainee Workshop - GitHub and Reproducibility 101](https://hutchdatascience.org/ITN_Workshops_2024/), Indianapolis, Indiana (approx 20 learners)
+
+2024 **Workshop Co-developer and Co-instructor** [NIH, ITCR workshops](https://www.itcrtraining.org/events) Computing for  Cancer Research, NYU, Bethesda, MD (approx 25 learners)
+
+2024 **Workshop Co-developer and Co-instructor** [NYU, ITCR workshops](https://www.itcrtraining.org/events) [AI Ethics for Scientific Research](https://docs.google.com/presentation/d/1gFNEhfp4Vh131tpHvdntvpIKKwlJilaNfJLiMTeXvDA/edit?usp=sharing), NYU, New York City, New York  (approx 25 learners)
+
+2024 **Workshop Developer and Instructor** [NYU, ITCR workshops](https://www.itcrtraining.org/events) [Computing for Cancer Informatics](https://docs.google.com/presentation/d/1iQlW7yMfAGrv1cz-QfzQ5fUmTnsvQl1Kf_696v1ioUE/edit?usp=sharing), NYU, New York City, New York (approx 25 learners)
+
+2024 **Workshop Developer and Instructor**, AI Considerations for research, Fred Hutchinson Cancer Center, Seattle Washington
+
+2024 **Workshop Developer and Instructor**, Write Smarter with LaTeX and Overleaf, Fred Hutchinson Cancer Center, Seattle Washington
+
 2023 **Workshop Co-developer and Co-instructor** [SeattleStatSummer Intro to R Workshop](https://hutchdatascience.org/SeattleStatSummer_R/), [Fred Hutchinson Cancer Center SeattleStatSummer Program](https://www.fredhutch.org/en/education-training/high-school-undergraduate-students/seattlestatsummer.html), Virtual, Seattle, Washington (11 students)
 
 2023 **Workshop Developer and Instructor** [Fred Hutchinson Cancer Center, ITCR workshops](https://www.itcrtraining.org/events) [Multidisciplinary teams for Cancer Informatics](https://docs.google.com/presentation/d/19Z_yZ1HPsGewR2EgykGr5skpjI8vQvM5anc7-wdsTug/edit?usp=sharing), Seattle, Washington  (approx 15 learners)
 
 2023 **Workshop Developer and Instructor** [Fred Hutchinson Cancer Center ITCR workshops](https://www.itcrtraining.org/events) [Computing for Cancer Informatics](https://docs.google.com/presentation/d/1lq4NsjfMAuoSAONNXw5JcrP4j5P1z_2sNJJnqXDkxdQ/edit?usp=sharing), Seattle, Washington (approx 15 learners)
 
-2023 **Workshop Co-developer and Co-instructor** [ITCR Annual Meeting 2023](https://itcr2023.org/) - [ITCR Annual Meeting Trainee Workshop - GitHub 101](https://docs.google.com/presentation/d/1Mn5X3itSuAh9zuzy_1ibSWYEcyjrm897p8MF8TGbmHk/edit?usp=sharing), Seattle, Washington (approx 20 learners)
+2023 **Workshop Co-developer and Co-instructor** [ITCR Annual Meeting 2023](https://itcr2023.org/) - [ITCR Annual Meeting Trainee Workshop - GitHub 101](https://docs.google.com/presentation/d/1Mn5X3itSuAh9zuzy_1ibSWYEcyjrm897p8MF8TGbmHk/edit?usp=sharing), Chicago, Illinois (approx 20 learners)
 
 2022 **Workshop Developer and Co-instructor** [Translational Genomics Research Institute (TGEN)](https://www.tgen.org/) - [Leveraging Resources for Your Bioinformatics Analyses (Including Galaxy Introduction)](https://docs.google.com/presentation/d/1GH7b7bLy0NwY3Z_zs5i-5LwkqMCXzh56CGoJgJta8tU/edit?usp=sharing), Phoenix, Arizona (6 learners)
 
