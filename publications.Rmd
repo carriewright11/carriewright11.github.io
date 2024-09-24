@@ -11,22 +11,24 @@
 
 ### First Author or Senior Author Publications
 
-1. Afiaz A, Ivanov AA, Chamberlin J, Hanauer D, Savonen CL, Goldman MJ, Morgan M, Reich M, Getka A, Holmes A, Pati S, Knight D, Boutros PC, Bakas S, Caporaso JG, Del Fiol G, Hochheiser H, Haas B, Schloss PD, Eddy JA, Albrecht J, Fedorov A, Waldron L, Hoffman AM, Bradshaw RL, Leek JT, **Wright C.** Best practices to evaluate the impact of biomedical research software-metric collection beyond citations. Bioinformatics. 2024 Aug 2;40(8):btae469. doi: 10.1093/bioinformatics/btae469. PMID: 39067017; PMCID: [PMC11297485](https://pubmed.ncbi.nlm.nih.gov/39067017/).
+1. **Wright, C.**, Meng, Q., Breshock, M.R., Atta, L., Taub, M.A., Jager, L.R., … Hicks, S.C. (2024) Open Case Studies: Statistics and Data Science Education through Real-World Applications. Journal of Statistics and Data Science Education, 1–30. [doi:10.1080/26939169.2024.2394541](https://doi.org/10.1080/26939169.2024.2394541)
 
-1. Hoffman AM\*, **Wright C.\*** Ten simple rules for teaching an introduction to R. PLoS Comput Biol. 2024 May 16;20(5):e1012018. doi: 10.1371/journal.pcbi.1012018. PMID: [38753606](PMC11098303.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11098303/)
+1. Afiaz A., Ivanov A.A., Chamberlin J., Hanauer D., Savonen C.L., Goldman M.J., Morgan M., Reich M., Getka A., Holmes A., Pati S., Knight D., Boutros P.C., Bakas S., Caporaso J.G., Del Fiol G., Hochheiser H., Haas B., Schloss P.D., Eddy J.A., Albrecht J., Fedorov A., Waldron L., Hoffman A.M., Bradshaw R.L., Leek J.T., **Wright C.** (2024) Best practices to evaluate the impact of biomedical research software-metric collection beyond citations. Bioinformatics. 40(8):btae469. doi: 10.1093/bioinformatics/btae469. PMID: [39067017](https://pubmed.ncbi.nlm.nih.gov/39067017/)
+
+1. Hoffman A.M.\*, **Wright C.\*** Ten simple rules for teaching an introduction to R. (2024) PLoS Comput Biol. 20(5):e1012018. doi: 10.1371/journal.pcbi.1012018. PMID: [38753606](PMC11098303.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11098303/)
 \* ***These authors contributed equally to this work.***
 
 1. **Wright C.\***, Rajpurohit A.\*, Jaffe A., Burke, E., Williams, C., Collado-Torres, L., Kimos, M., Brandon N., Cross A.J., Weinberger D. R., and Shin J. H. (2019) Comprehensive assessment of multiple biases in small RNA sequencing reveals significant differences in the performance of widely used methods. BMC Genomics. 20(1):513. PMID: [1226924](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5870-3)
 \* ***These authors contributed equally to this work.***
 
-1.	Rosenberg A. Z\*., **Wright C\***., Fox-Talbot K., Rajpurohit A., Williams C., Porter C., Foulke-Abel J, Kovbasnjuk O., McCall M. N., Shin J. H.,  Haluska, M. K. (2018) xMD-miRNA-seq to generate near in vivo miRNA expression estimates in colon epithelial cells. Scientific Reports. 8(1):9783. PMID: [29955168](https://www.ncbi.nlm.nih.gov/pubmed/29955168)
+1.	Rosenberg A.Z.\*., **Wright C.\***., Fox-Talbot K., Rajpurohit A., Williams C., Porter C., Foulke-Abel J., Kovbasnjuk O., McCall M.N., Shin J.H.,  Haluska, M.K. (2018) xMD-miRNA-seq to generate near in vivo miRNA expression estimates in colon epithelial cells. Scientific Reports. 8(1):9783. PMID: [29955168](https://www.ncbi.nlm.nih.gov/pubmed/29955168)
 \* ***These authors contributed equally to this work.***
 
-1.	**Wright C.**, Ross D. A., and Weinberger D. R. (2018) Small RNAs may answer big questions in mental illness. Biological Psychiatry. 83(1):e1. PMID: [29173708](https://www.ncbi.nlm.nih.gov/pubmed/?term=29173708)
+1.	**Wright C.**, Ross D.A., and Weinberger D.R. (2018) Small RNAs may answer big questions in mental illness. Biological Psychiatry. 83(1):e1. PMID: [29173708](https://www.ncbi.nlm.nih.gov/pubmed/?term=29173708)
 
-1.	**Wright C.**, Shin J. H., Jaffe A., Rajpurohit A., Brandon N., Cross A., Hyde T. M., Kleinman, J. E., and Weinberger D. R. (2017) Altered expression of histamine signaling genes in Autism Spectrum Disorder. Translational Psychiatry. 7(5):e1126. PMID: [28485729](https://www.ncbi.nlm.nih.gov/pubmed/?term=28485729)
+1.	**Wright C.**, Shin J.H., Jaffe A., Rajpurohit A., Brandon N., Cross A., Hyde T. M., Kleinman, J.E., and Weinberger D.R. (2017) Altered expression of histamine signaling genes in Autism Spectrum Disorder. Translational Psychiatry. 7(5):e1126. PMID: [28485729](https://www.ncbi.nlm.nih.gov/pubmed/?term=28485729)
 
-1.	**Wright C.**, Gupta C. N., Chen J., Patel V., Calhoun V.D., Ehrlich S., Wang L., Bustillo J. R., Perrone-Bizzozero N., and Turner J. A. (2016) Polymorphisms in MIR137HG and microRNA-137 regulated genes influence gray matter structure in schizophrenia. Translational Psychiatry. 6:e724. PMID: [26836412](https://www.ncbi.nlm.nih.gov/pubmed/?term=26836412)  
+1.	**Wright C.**, Gupta C. N., Chen J., Patel V., Calhoun V.D., Ehrlich S., Wang L., Bustillo J.R., Perrone-Bizzozero N., and Turner J.A. (2016) Polymorphisms in MIR137HG and microRNA-137 regulated genes influence gray matter structure in schizophrenia. Translational Psychiatry. 6:e724. PMID: [26836412](https://www.ncbi.nlm.nih.gov/pubmed/?term=26836412)  
 
 1.	**Wright C.**, Calhoun V., Ehrlich S., Wang L., Turner J.A., and Perrone-Bizzozero N. (2015)
 Meta gene set enrichment analyses link miR-137-regulated pathways with schizophrenia risk. Frontiers in Genetics. 6:147. PMID: [25941532](https://www.ncbi.nlm.nih.gov/pubmed/?term=25941532)
@@ -36,11 +38,11 @@ Meta gene set enrichment analyses link miR-137-regulated pathways with schizophr
 ### Secondary Author Publications
 
 
-1. Savonen, C., **Wright, C.**, Hoffman, A. M., Humphries, E. M., Cox, K., Tan, F., Leek, J. Motivation, inclusivity, and realism should drive data science education. F1000Res 12, 1240, [doi:10.12688/f1000research.134655.1](https://f1000research.com/articles/12-1240) (2023).
+1. Savonen, C., **Wright, C.**, Hoffman, A.M., Humphries, E.M., Cox, K., Tan, F., Leek, J. (2023) Motivation, inclusivity, and realism should drive data science education. F1000Res 12, 1240, [doi:10.12688/f1000research.134655.1](https://f1000research.com/articles/12-1240) 
 
-2. Humphries, E. M., **Wright, C.**, Hoffman, A. M., Savonen, C. & Leek, J. T. What’s the best chatbot for me? Researchers put LLMs through their paces. Nature (2023) [doi:10.1038/d41586-023-03023-4](https://www.nature.com/articles/d41586-023-03023-4)
+2. Humphries, E.M., **Wright, C.**, Hoffman, A.M., Savonen, C. & Leek, J.T. (2023) What’s the best chatbot for me? Researchers put LLMs through their paces. Nature  [doi:10.1038/d41586-023-03023-4](https://www.nature.com/articles/d41586-023-03023-4)
 
-3. Savonen, C., **Wright, C.**, Hoffman, A.M., Muschelli, J., Cox, K., Tan, F.J., and Leek, J.T., (2022). Open-source Tools for Training Resources – OTTR. I Journal of Statistics and Data Science Education, [doi: 10.1080/26939169.2022.2118646](https://doi.org/10.1080/26939169.2022.2118646)
+3. Savonen, C., **Wright, C.**, Hoffman, A.M., Muschelli, J., Cox, K., Tan, F.J., and Leek, J.T., (2022) Open-source Tools for Training Resources – OTTR. I Journal of Statistics and Data Science Education, [doi: 10.1080/26939169.2022.2118646](https://doi.org/10.1080/26939169.2022.2118646)
 
 4. The Genomic Data Science Community Network (2022). Diversifying the genomic data science research community. Genome Res. 32, 1231–1241. PMID: [35858750](https://pubmed.ncbi.nlm.nih.gov/35858750/) 
 
@@ -52,7 +54,7 @@ Meta gene set enrichment analyses link miR-137-regulated pathways with schizophr
 
 8.	Hass J., Walton E., **Wright C.**, Beyer A., Scholz M., Turner J., Liu J., Smolka M.N., Roessner V., Sponheim S.R., Gollub R.L., Calhoun V.D., and Ehrlich S. (2015) Associations between DNA methylation and schizophrenia-related intermediate phenotypes - a gene set enrichment analysis. Prog Neuropsychopharmacol Biol Psychiatry. 59:31. PMID: [25598502](https://www.ncbi.nlm.nih.gov/pubmed/?term=25598502) 
 
-9.	Savage D. D., Rosenberg M. J., Wolff C. R., Akers K. G., El-Emawy A., Staples M. C., Varaschin R. K., **Wright C.**, Seidel J. L., and Caldwell K. K. (2010). Effects of a novel cognition-enhancing agent on fetal ethanol-induced learning deficits. Alcoholism: Clinical and Experimental Research. 34: 1793. PMID: [20626729](https://www.ncbi.nlm.nih.gov/pubmed/?term=20626729) 
+9.	Savage D.D., Rosenberg M.J., Wolff C.R., Akers K.G., El-Emawy A., Staples M.C., Varaschin R.K., **Wright C.**, Seidel J.L., and Caldwell K.K. (2010) Effects of a novel cognition-enhancing agent on fetal ethanol-induced learning deficits. Alcoholism: Clinical and Experimental Research. 34: 1793. PMID: [20626729](https://www.ncbi.nlm.nih.gov/pubmed/?term=20626729) 
 
 
 ### Preprints
