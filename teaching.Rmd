@@ -10,6 +10,12 @@
 
 #### **Courses**
 
+2024 [**Data Science for Environmental Health (DaSEH) Short Course**](https://daseh.org/)
+Funded by the National Institute of Environmental Health Sciences 1R25ES035590-01, Fred Hutchinson Cancer Center, Seattle, Washington (20 students)
+
+2024 [**Data Science for Environmental Health (DaSEH) Short Course**](https://daseh.org/)
+Funded by the National Institute of Environmental Health Sciences 1R25ES035590-01, Fred Hutchinson Cancer Center, Seattle, Washington (25 students)
+
 2024 **Short Course Co-Developer and Co-instructor**
 [University of Washington Biostatistics Summer Institutes](https://si.biostat.washington.edu/), ["Data Wrangling"](https://github.com/SISBID/Data-Wrangling), Virtual (~40 students)
 
