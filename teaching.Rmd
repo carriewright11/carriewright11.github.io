@@ -16,7 +16,7 @@
 2024 **Course Co-developer and Co-instructor** -  <span style="background-color: #FFFF00">rated as [excellent](https://publichealth.jhu.edu/offices-and-services/office-of-academic-affairs/faculty-recognition/excellence-in-teaching#Summer%20Institutes) by students</span>
 [140.604.73 – Introduction to R for Public Health Researchers](https://github.com/jhudsl/intro_to_r), Virtual, Johns Hopkins Bloomberg School of Public Health Summer Institutes Term (28 students)
 
-2023 **Course Co-developer and Co-instructor** -  <span style="background-color: #FFFF00"> rated as [excellent](https://publichealth.jhu.edu/offices-and-services/office-of-academic-affairs/faculty-recognition/excellence-in-teaching).by students</span>
+2024 **Course Co-developer and Co-instructor** -  <span style="background-color: #FFFF00"> rated as [excellent](https://publichealth.jhu.edu/offices-and-services/office-of-academic-affairs/faculty-recognition/excellence-in-teaching).by students</span>
 [140.604.79 – Introduction to R for Public Health Researchers](https://github.com/jhudsl/intro_to_r), Virtual, Johns Hopkins Bloomberg School of Public Health Winter Institutes Term (28 students)
 
 
