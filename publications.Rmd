@@ -72,7 +72,7 @@ Meta gene set enrichment analyses link miR-137-regulated pathways with schizophr
 
 ### Other Media
 
-1. Interviewed for a nature article: [What are the best AI tools for research? Nature’s guide](https://www.nature.com/articles/d41586-025-00437-0)
+1. Interviewed for a Nature article: [What are the best AI tools for research? Nature’s guide](https://www.nature.com/articles/d41586-025-00437-0) written by [Elizabeth Gibney](https://www.nature.com/articles/d41586-025-00437-0#author-0)
 
 1. An article in the [Hopkins Bloomberg Public Health Magazine](https://magazine.jhsph.edu/) from April 15, 2022 that mentions a course developed by C.Wright titled [How biased data and algorithms can harm health](https://magazine.jhsph.edu/2022/how-biased-data-and-algorithms-can-harm-health)
 
