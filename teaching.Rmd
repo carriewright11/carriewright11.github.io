@@ -74,9 +74,9 @@ Taught a variety of science courses to children age 3-12
 
 #### **Workshops**
 
-<!-- 2024 **Workshop Co-instructor** [ITCR Annual Meeting 2024](https://itcr2024.org/) - [ITCR Annual Meeting Trainee Workshop - Spatial Transcriptomics in collabroation with Oscar Ospina and Brook Fridely](https://hutchdatascience.org/ITN_Workshops_2024/), Indianapolis, Indiana (approx 20 learners) -->
+2024 **Workshop Co-instructor** - [ITN workshops on Reproducibility, Clinical Data anlysis, spatial transcriptomics, and RNA sequencing](https://hutchdatascience.org/UMich_ITN_Workshop/), University of Michigan, Ann Arbor, Michigan (approx 40 learners)
 
-<!-- 2024 **Workshop Co-instructor** [ITCR Annual Meeting 2024](https://itcr2024.org/) - [ITCR Annual Meeting Trainee Workshop - Containers](https://hutchdatascience.org/ITN_Workshops_2024/), Indianapolis, Indiana (approx 20 learners) -->
+2024 **Workshop Developer and Instructor**  Moffit Cancer  Center Woorkshops - [ITN Computing and Data Ethics](https://hutchdatascience.org/Moffitt_ITN_Workshop/), Moffitt Cancer Center, Tampa, Florida (approx 30 learners) 
 
 2024 **Workshop Co-developer and Co-instructor** [ITCR Annual Meeting 2024](https://itcr2024.org/) - [ITCR Annual Meeting Trainee Workshop - GitHub and Reproducibility 101](https://hutchdatascience.org/ITN_Workshops_2024/), Indianapolis, Indiana (approx 20 learners)
 
