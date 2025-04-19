@@ -10,7 +10,7 @@
 
 #### **Courses**
 
-2024 **Short Course Co-Developer and Co-instructor**, [Data Science for Environmental Health (DaSEH) Short Course**](https://daseh.org/)
+2024 **Short Course Co-Developer and Co-instructor**, [Data Science for Environmental Health (DaSEH) Short Course](https://daseh.org/)
 Funded by the National Institute of Environmental Health Sciences 1R25ES035590-01, Fred Hutchinson Cancer Center, Seattle, Washington (20 students)
 
 2024 **Short Course Co-Developer and Co-instructor**, [Data Science for Environmental Health (DaSEH) Short Course](https://daseh.org/)
@@ -236,6 +236,8 @@ https://github.com/opencasestudies/ocs-bp-diet
 
 ### Online Courses
 
+
+
 2024 -[**Avoiding AI Harm**](https://hutchdatascience.org/AI_for_Decision_Makers/introduction-to-avoiding-ai-harm.html) on [Coursera](https://www.coursera.org/learn/avoiding-ai-harm) as part of a larger collaborative course called [**AI for Decision Makers**](https://hutchdatascience.org/AI_for_Decision_Makers/) as a specialization also on [Coursera](https://www.coursera.org/learn/ai-for-decision-makers)
 
 ```{r, echo = FALSE, fig.align='center', out.width="30%"}
@@ -253,7 +255,7 @@ knitr::include_graphics("images/ai_eff_what.png")
 knitr::include_graphics("images/ai_eff_who.png")
 ```
 
-2023 - [**Ethical Data Handling**](https://hutchdatascience.org/Ethical_Data_Handling_for_Cancer_Research/) on [Leanpub](https://leanpub.com/courses/fredhutch/ethical_data_handling/)
+2023 - [**Ethical Data Handling**](https://hutchdatascience.org/Ethical_Data_Handling_for_Cancer_Research/) on [Coursera](https://www.coursera.org/learn/ethical-data-handling/) and [Leanpub](https://leanpub.com/courses/fredhutch/ethical_data_handling/)
 
 ```{r, echo = FALSE, fig.align='center', out.width="60%"}
 knitr::include_graphics("images/ethical_what.png")
@@ -323,7 +325,7 @@ Including:
 
 #### **Research Advisees**
 
-- [Isaac, Kate](https://kweav.github.io/). Postdoctoral Fellow. Fred Hutchinson Cancer Center, Seattle, WA (2023 - Present). Co-supervised  with Jeff Leek 
+- [Isaac, Kate](https://kweav.github.io/). Postdoctoral Fellow. Fred Hutchinson Cancer Center, Seattle, WA (2023 - Present). Co-supervised  with Jeff Leek and Ava Hoffman
 
 - [Jainaba, Jawara](https://www.linkedin.com/in/jainaba-jawara570/). Undergraduate Student Intern. University of Washington, Seattle, WA (2023). *Co-supervised with Ava Hoffman on a research project and poster as part of the [SeattleStatSummer](https://www.fredhutch.org/en/education-training/high-school-undergraduate-students/seattlestatsummer.html) program at the [Fred Hutchinson Cancer Center](https://www.fredhutch.org/).*
 
