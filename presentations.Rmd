@@ -13,6 +13,12 @@
 
 ### Talks
 
+2024 [Posit Conference](https://posit.co/blog/talks-and-workshops-from-posit-conf-2024/) Seattle, Washington, talk titled [Supporting Social Good Through Community-Based Data Science Education](https://docs.google.com/presentation/d/13mAfJoiZSptWWIw49lljj5MYhjNCCnCQOHmfOS6Fas8/edit?usp=sharing), [YouTube Link](https://www.youtube.com/watch?v=OT1Y2NkTsEI&feature=youtu.be)
+
+
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/OT1Y2NkTsEI?si=FCsuc__WhQZ7S148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+
+
 2024 [American Association for Cancer Research (AACR)](https://www.aacr.org/meeting/aacr-annual-meeting-2024/), San Diego, California, talk titled [Empowering cancer researchers, From fundamentals to AI with the Informatics Technology for Cancer Research Training Network (ITN)](https://docs.google.com/presentation/d/1HQnIEQjwnubRCP9sQxEcrUBfneyoRQFh_W72ybqy-NE/edit?usp=sharing)
 
 2024 [The University of Texas at Austin, Department of Statistics and Data Sciences](https://stat.utexas.edu/), Austin, Texas, talk titled [Exploring initiatives to promote more comprehensive data science and statistical education](https://docs.google.com/presentation/d/1GpwNqoEYbDK2xN_u4WoOFJAB9mDBCuOhhXu0NzsBy18/edit?usp=sharing)
@@ -91,3 +97,17 @@
 
 2008	Annual Biomedical Research Conference for Minority Students (ABERCAMS), Orlando, Florida, poster presentation titled “Effects of maternal drinking during pregnancy on  placental gene expression and protein function” 
 
+### Videos
+
+Announcement of the Open Case Studies Project. [[Article]](https://publichealth.jhu.edu/2020/new-project-offers-real-world-case-studies-to-teach-big-data-lessons-to-help-solve-pressing-health-issues) [[Bloomberg Website]]( https://americanhealth.jhu.edu/open-case-studies) [[OCS Website]](https://www.opencasestudies.org/)
+<br>
+<br>
+<br>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/DgzBSOY5Yc8?si=LlcKZa91ARfkb7Gx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+
+### Podcasts
+
+
+<p style="text-align:center;"> <a href="https://crackingthecancercode.buzzsprout.com/2219246/episodes"> <img src="images/podcast_logo.jpeg" width="300" /> </a></p>
+
+[Cracking the Cancer Code](https://crackingthecancercode.buzzsprout.com/2219246/episodes) - a podcast co-hosted with [Candace Savonen](https://www.cansavvy.com/), where we explore the latest in cancer data science.
