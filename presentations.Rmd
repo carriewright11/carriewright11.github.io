@@ -13,6 +13,8 @@
 
 ### Talks
 
+2024 [Posit Conference](https://posit.co/blog/talks-and-workshops-from-posit-conf-2024/) Seattle, Washington, talk titled [Supporting Social Good Through Community-Based Data Science Education](https://www.youtube.com/watch?v=OT1Y2NkTsEI&feature=youtu.be)
+
 2024 [American Association for Cancer Research (AACR)](https://www.aacr.org/meeting/aacr-annual-meeting-2024/), San Diego, California, talk titled [Empowering cancer researchers, From fundamentals to AI with the Informatics Technology for Cancer Research Training Network (ITN)](https://docs.google.com/presentation/d/1HQnIEQjwnubRCP9sQxEcrUBfneyoRQFh_W72ybqy-NE/edit?usp=sharing)
 
 2024 [The University of Texas at Austin, Department of Statistics and Data Sciences](https://stat.utexas.edu/), Austin, Texas, talk titled [Exploring initiatives to promote more comprehensive data science and statistical education](https://docs.google.com/presentation/d/1GpwNqoEYbDK2xN_u4WoOFJAB9mDBCuOhhXu0NzsBy18/edit?usp=sharing)
