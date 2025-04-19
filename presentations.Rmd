@@ -16,7 +16,7 @@
 2024 [Posit Conference](https://posit.co/blog/talks-and-workshops-from-posit-conf-2024/) Seattle, Washington, talk titled [Supporting Social Good Through Community-Based Data Science Education](https://docs.google.com/presentation/d/13mAfJoiZSptWWIw49lljj5MYhjNCCnCQOHmfOS6Fas8/edit?usp=sharing), [YouTube Link](https://www.youtube.com/watch?v=OT1Y2NkTsEI&feature=youtu.be)
 
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/OT1Y2NkTsEI?si=FCsuc__WhQZ7S148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p align="center"><iframe width="460" height="215" src="https://www.youtube.com/embed/OT1Y2NkTsEI?si=FCsuc__WhQZ7S148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 
 2024 [American Association for Cancer Research (AACR)](https://www.aacr.org/meeting/aacr-annual-meeting-2024/), San Diego, California, talk titled [Empowering cancer researchers, From fundamentals to AI with the Informatics Technology for Cancer Research Training Network (ITN)](https://docs.google.com/presentation/d/1HQnIEQjwnubRCP9sQxEcrUBfneyoRQFh_W72ybqy-NE/edit?usp=sharing)
@@ -42,7 +42,7 @@
 
 2020  [Bloomberg American Health Summit 2020](https://americanhealth.jhu.edu/2020-bloomberg-american-health-summit), with Stephanie Hicks, location virtual, talk titled "[Open Case Studies](https://docs.google.com/presentation/d/18jymRcaW2eh6cNmN6HbazaTg8OJFToQ28kvIpeN4CGg/edit?usp=sharing)" 
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/T1B5q6jdP6U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center"><iframe width="460" height="215" src="https://www.youtube.com/embed/T1B5q6jdP6U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 2017 	World Congress on Psychiatric Genetics (WCPG), Orlando, Florida, symposium talk titled “Characterization of miRNA isoform expression in schizophrenia using human postmortem brain tissue”
  
