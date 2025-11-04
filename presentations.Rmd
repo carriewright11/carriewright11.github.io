@@ -13,6 +13,8 @@
 
 ### Talks
 
+2025 [ITCR Annual Meeting](https://events.cancer.gov/nci/itcr-meeting), NCI, Shady Grove, Rockville, Maryland, talk/workshop titled [AI in the Wild: Stories of Success and Failure](https://docs.google.com/presentation/d/1cNLw7YCG8-tM8f8axYFromtswgR4tve2QzyN04fyJck/edit?usp=sharing), [Webex Recording](https://cbiit.webex.com/cbiit/ldr.php?RCID=67b734a3d2a0418fa4f12425fd89751b)
+
 2024 [Posit Conference](https://posit.co/blog/talks-and-workshops-from-posit-conf-2024/) Seattle, Washington, talk titled [Supporting Social Good Through Community-Based Data Science Education](https://docs.google.com/presentation/d/13mAfJoiZSptWWIw49lljj5MYhjNCCnCQOHmfOS6Fas8/edit?usp=sharing), [YouTube Link](https://www.youtube.com/watch?v=OT1Y2NkTsEI&feature=youtu.be)
 
 
