@@ -13,9 +13,9 @@
 
 ### Talks
 
-2025 [Fred Hutch Deep Learning Affinity Group (DLAG) Seminar](https://research.fredhutch.org/dlag/en.html), Virtual, talk titled [Navigating AI ethics for scientific research](https://docs.google.com/presentation/d/15RmlGNAontco7VF4EdtQFeaOl_1QKc1TVMCb79vKKz0/edit?usp=sharing)
+2025 [Fred Hutch Deep Learning Affinity Group (DLAG) Seminar](https://research.fredhutch.org/dlag/en.html), Virtual, talk titled [Navigating AI ethics for scientific research](https://docs.google.com/presentation/d/15RmlGNAontco7VF4EdtQFeaOl_1QKc1TVMCb79vKKz0/edit?usp=sharing), [Recording Link](https://fredhutch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8eeb3bd0-ac16-4dba-858d-b38b016cff76)
 
-2025 [ITCR Annual Meeting](https://events.cancer.gov/nci/itcr-meeting), NCI, Shady Grove, Rockville, Maryland, talk/workshop titled [AI in the Wild: Stories of Success and Failure](https://docs.google.com/presentation/d/1cNLw7YCG8-tM8f8axYFromtswgR4tve2QzyN04fyJck/edit?usp=sharing), [Webex Recording](https://cbiit.webex.com/cbiit/ldr.php?RCID=67b734a3d2a0418fa4f12425fd89751b)
+2025 [ITCR Annual Meeting](https://events.cancer.gov/nci/itcr-meeting), NCI, Shady Grove, Rockville, Maryland, talk/workshop titled [AI in the Wild: Stories of Success and Failure](https://docs.google.com/presentation/d/1cNLw7YCG8-tM8f8axYFromtswgR4tve2QzyN04fyJck/edit?usp=sharing), [Recording Link](https://cbiit.webex.com/cbiit/ldr.php?RCID=67b734a3d2a0418fa4f12425fd89751b)
 
 2024 [Posit Conference](https://posit.co/blog/talks-and-workshops-from-posit-conf-2024/) Seattle, Washington, talk titled [Supporting Social Good Through Community-Based Data Science Education](https://docs.google.com/presentation/d/13mAfJoiZSptWWIw49lljj5MYhjNCCnCQOHmfOS6Fas8/edit?usp=sharing), [YouTube Link](https://www.youtube.com/watch?v=OT1Y2NkTsEI&feature=youtu.be)
 
@@ -44,7 +44,7 @@
 
 2021 [NIH Data Science for Science Teachers Boot Camp](https://datascience.nih.gov/data-science-science-teachers-boot-camp), location virtual, talk titled ["Why Statistics Matters"](https://docs.google.com/presentation/d/1BljMC9zBp4vqqk47ecJ-cHe_6lAzqUim6IzLUoFuuKU/edit?usp=sharing)
 
-2020  [Bloomberg American Health Summit 2020](https://americanhealth.jhu.edu/2020-bloomberg-american-health-summit), with Stephanie Hicks, location virtual, talk titled "[Open Case Studies](https://docs.google.com/presentation/d/18jymRcaW2eh6cNmN6HbazaTg8OJFToQ28kvIpeN4CGg/edit?usp=sharing)" 
+2020  [Bloomberg American Health Summit 2020](https://americanhealth.jhu.edu/2020-bloomberg-american-health-summit), with Stephanie Hicks, location virtual, talk titled "[Open Case Studies](https://docs.google.com/presentation/d/18jymRcaW2eh6cNmN6HbazaTg8OJFToQ28kvIpeN4CGg/edit?usp=sharing)", [YouTube Link](https://youtu.be/T1B5q6jdP6U) 
 
 <p align="center"><iframe width="460" height="215" src="https://www.youtube.com/embed/T1B5q6jdP6U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
