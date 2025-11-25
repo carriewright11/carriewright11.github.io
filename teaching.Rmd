@@ -2,7 +2,7 @@
 ###
 &nbsp;
 
-## Teaching {.tabset .tabset-fade}
+## Teaching & Mentorship {.tabset .tabset-fade}
 &nbsp;
 
 
@@ -325,7 +325,11 @@ Including:
 
 #### **Research Advisees**
 
-- [Isaac, Kate](https://kweav.github.io/). Postdoctoral Fellow. Fred Hutchinson Cancer Center, Seattle, WA (2023 - Present). Co-supervised  with Jeff Leek and Ava Hoffman
+- [Thomas, Oshane](https://oothomas.github.io/). Postdoctoral Fellow. Fred Hutchinson Cancer Center, Seattle, WA (2025 - Present). Co-supervised with Ava Hoffman.
+
+- [Solerno, Steve](https://salernos.github.io/). Postdoctoral Fellow. Fred Hutchinson Cancer Center, Seattle, WA (2025 - Present). Co-supervised  with Jeff Leek and Ava Hoffman.
+
+- [Isaac, Kate](https://kweav.github.io/). Postdoctoral Fellow. Fred Hutchinson Cancer Center, Seattle, WA (2023 - Present). Co-supervised  with Jeff Leek and Ava Hoffman.
 
 - [Jainaba, Jawara](https://www.linkedin.com/in/jainaba-jawara570/). Undergraduate Student Intern. University of Washington, Seattle, WA (2023). *Co-supervised with Ava Hoffman on a research project and poster as part of the [SeattleStatSummer](https://www.fredhutch.org/en/education-training/high-school-undergraduate-students/seattlestatsummer.html) program at the [Fred Hutchinson Cancer Center](https://www.fredhutch.org/).*
 
