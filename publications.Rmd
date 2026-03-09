@@ -64,12 +64,13 @@ Meta gene set enrichment analyses link miR-137-regulated pathways with schizophr
 
 3. Savonen, C., **Wright, C.**, Hoffman, A.M., Humphries, E.M., Cox, K.E.L., Tan, F.J., and Leek, J.T. Motivation, inclusivity, and realism should drive data science education (2023). [arXiv:2305.06213](https://arxiv.org/abs/2305.06213)-->
 
+1. Zhao, Y., Damle, S..R,  Dekker, S.E., Geng, S., Silva, K.W., Hubbard J.J., Fernandez, M. F., Zelada-Arenas, F., Alvarez, A., Flores, B., Rodriguez, A.,  Salerno,S., **Wright, C**, Wang, Z., Koh, P.W., T. Leek, J.T. PanCanBench: A Comprehensive Benchmark for Evaluating Large Language Models in Pancreatic Oncology (2026)[arXiv.2603.01343](https://arxiv.org/abs/2603.01343)
 
 1. Hoffman, A. & **Wright, C**. Ten simple rules for teaching introduction to R. (2023) [edarxiv/g45vz](https://osf.io/preprints/edarxiv/g45vz/).
 
-2. **Wright, C.**, Meng Q., Breshock, M.R., Atta, L., Taub, M.A.,  Jager, L.R., Muschelli, J., and Hicks, S.C. Open Case Studies: Statistics and Data Science Education through Real-World Applications (2023). [arXiv.2301.05298](https://arxiv.org/abs/2301.05298)
+1. **Wright, C.**, Meng Q., Breshock, M.R., Atta, L., Taub, M.A.,  Jager, L.R., Muschelli, J., and Hicks, S.C. Open Case Studies: Statistics and Data Science Education through Real-World Applications (2023). [arXiv.2301.05298](https://arxiv.org/abs/2301.05298)
 
-3. Afiaz, A., Ivanov, A., Chamberlin, J., Hanauer D., Savonen, C., Goldman, M.J., Morgan, M., Reich, M., Getka, A., Holmes, A., Pati, S., Knight, D., Boutros, P.C., Bakas, S., Caporaso, J.G., Del Fiol, G., Hochheiser, H., Haas, B., Schloss, P.D., Eddy, J.A., Albrecht, J., Fedorov, A., Waldron, L., Hoffman, A.M., Bradshaw, R.L., Leek, J.T., **Wright, C.** Evaluation of software impact designed for biomedical research: Are we measuring what’s meaningful? (2023). [arXiv:2306.03255](https://arxiv.org/abs/2306.03255)
+1. Afiaz, A., Ivanov, A., Chamberlin, J., Hanauer D., Savonen, C., Goldman, M.J., Morgan, M., Reich, M., Getka, A., Holmes, A., Pati, S., Knight, D., Boutros, P.C., Bakas, S., Caporaso, J.G., Del Fiol, G., Hochheiser, H., Haas, B., Schloss, P.D., Eddy, J.A., Albrecht, J., Fedorov, A., Waldron, L., Hoffman, A.M., Bradshaw, R.L., Leek, J.T., **Wright, C.** Evaluation of software impact designed for biomedical research: Are we measuring what’s meaningful? (2023). [arXiv:2306.03255](https://arxiv.org/abs/2306.03255)
 
 ### Other Media
 
