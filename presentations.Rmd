@@ -13,6 +13,8 @@
 
 ### Talks
 
+2026 [Fred Hutch Office of Scientific Career Development](https://www.fredhutch.org/en/education-training/office-of-scientific-career-development.html), Virtual, talk titled [Navigating AI ethics for scientific research](https://docs.google.com/presentation/d/1u6hCLg3g8Zdg0RErsG2kqy0X2FtIoIsnS50yrnZuV_o/edit?usp=sharing)
+
 2025 [Fred Hutch Deep Learning Affinity Group (DLAG) Seminar](https://research.fredhutch.org/dlag/en.html), Virtual, talk titled [Navigating AI ethics for scientific research](https://docs.google.com/presentation/d/15RmlGNAontco7VF4EdtQFeaOl_1QKc1TVMCb79vKKz0/edit?usp=sharing), [Recording Link](https://fredhutch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8eeb3bd0-ac16-4dba-858d-b38b016cff76)
 
 2025 [ITCR Annual Meeting](https://events.cancer.gov/nci/itcr-meeting), NCI, Shady Grove, Rockville, Maryland, talk/workshop titled [AI in the Wild: Stories of Success and Failure](https://docs.google.com/presentation/d/1cNLw7YCG8-tM8f8axYFromtswgR4tve2QzyN04fyJck/edit?usp=sharing), [Recording Link](https://cbiit.webex.com/cbiit/ldr.php?RCID=67b734a3d2a0418fa4f12425fd89751b)
